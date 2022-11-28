@@ -5,17 +5,17 @@ export const enNavbar = navbar([
 	{
 		text: "Diary",
 		icon: "note",
-		link: "/diary/genshin",
+		link: "/en/diary/genshin",
 	},
 	{
 		text: "Lyric",
 		icon: "blog",
-		link: "/lyrics/xiju",
+		link: "/en/lyrics/xiju",
 	},
 	{
 		text: "timeline",
 		icon: "time",
-		link: "/timeline/",
+		link: "/en/timeline/",
 	},
 	{
 		text: "Review",
