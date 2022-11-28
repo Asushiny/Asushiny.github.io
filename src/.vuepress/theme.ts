@@ -18,8 +18,7 @@ export default hopeTheme({
 	// false隐藏导航栏的github按钮
 	repoDisplay: false,
 	//文档在仓库的目录
-	// docsDir: "docs",
-	docsDir: "/",
+	docsDir: "src",
 	// 文章信息配置 Author作者 Original原创 Date时间 Category分类 Tag标签 ReadingTime阅读时间
 	// pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 	pageInfo: ["Author", "Original", "Date", "Category", "Tag"],

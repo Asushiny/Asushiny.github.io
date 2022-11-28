@@ -510,123 +510,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Disabling layout and features",
-    "headers": [],
-    "path": "/en/demo/disable.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Encryption Article",
-    "headers": [],
-    "path": "/en/demo/encrypt.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Markdown Enhance",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Markdown Introduction",
-        "slug": "markdown-introduction",
-        "link": "#markdown-introduction",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown Config",
-        "slug": "markdown-config",
-        "link": "#markdown-config",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown Extension",
-        "slug": "markdown-extension",
-        "link": "#markdown-extension",
-        "children": [
-          {
-            "level": 3,
-            "title": "VuePress Enhancement",
-            "slug": "vuepress-enhancement",
-            "link": "#vuepress-enhancement",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Theme Enhancement",
-            "slug": "theme-enhancement",
-            "link": "#theme-enhancement",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/en/demo/markdown.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Page Config",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Page Information",
-        "slug": "page-information",
-        "link": "#page-information",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Page Content",
-        "slug": "page-content",
-        "link": "#page-content",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Page Structure",
-        "slug": "page-structure",
-        "link": "#page-structure",
-        "children": []
-      }
-    ],
-    "path": "/en/demo/page.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Features Demo",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Catalog",
-        "slug": "catalog",
-        "link": "#catalog",
-        "children": []
-      }
-    ],
-    "path": "/en/demo/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "回顾",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
-        "children": []
-      }
-    ],
-    "path": "/en/docs/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "账本",
     "headers": [
       {
@@ -823,6 +706,123 @@ export const searchIndex = [
       }
     ],
     "path": "/en/diary/genshin.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Disabling layout and features",
+    "headers": [],
+    "path": "/en/demo/disable.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Encryption Article",
+    "headers": [],
+    "path": "/en/demo/encrypt.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Markdown Enhance",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Markdown Introduction",
+        "slug": "markdown-introduction",
+        "link": "#markdown-introduction",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Markdown Config",
+        "slug": "markdown-config",
+        "link": "#markdown-config",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Markdown Extension",
+        "slug": "markdown-extension",
+        "link": "#markdown-extension",
+        "children": [
+          {
+            "level": 3,
+            "title": "VuePress Enhancement",
+            "slug": "vuepress-enhancement",
+            "link": "#vuepress-enhancement",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Theme Enhancement",
+            "slug": "theme-enhancement",
+            "link": "#theme-enhancement",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/en/demo/markdown.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Page Config",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Page Information",
+        "slug": "page-information",
+        "link": "#page-information",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Page Content",
+        "slug": "page-content",
+        "link": "#page-content",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Page Structure",
+        "slug": "page-structure",
+        "link": "#page-structure",
+        "children": []
+      }
+    ],
+    "path": "/en/demo/page.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Features Demo",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Catalog",
+        "slug": "catalog",
+        "link": "#catalog",
+        "children": []
+      }
+    ],
+    "path": "/en/demo/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "回顾",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022",
+        "slug": "_2022",
+        "link": "#_2022",
+        "children": []
+      }
+    ],
+    "path": "/en/docs/",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -1132,9 +1132,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Guide Category",
+    "title": "日记 Category",
     "headers": [],
-    "path": "/en/category/guide/",
+    "path": "/en/category/%E6%97%A5%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1146,9 +1146,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "日记 Category",
+    "title": "游戏 Category",
     "headers": [],
-    "path": "/en/category/%E6%97%A5%E8%AE%B0/",
+    "path": "/en/category/%E6%B8%B8%E6%88%8F/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1160,9 +1160,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "游戏 Category",
+    "title": "Guide Category",
     "headers": [],
-    "path": "/en/category/%E6%B8%B8%E6%88%8F/",
+    "path": "/en/category/guide/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1223,6 +1223,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "账本 Tag",
+    "headers": [],
+    "path": "/en/tag/%E8%B4%A6%E6%9C%AC/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "日记 Tag",
+    "headers": [],
+    "path": "/en/tag/%E6%97%A5%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "原神 Tag",
+    "headers": [],
+    "path": "/en/tag/%E5%8E%9F%E7%A5%9E/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "disable Tag",
     "headers": [],
     "path": "/en/tag/disable/",
@@ -1254,27 +1275,6 @@ export const searchIndex = [
     "title": "Guide Tag",
     "headers": [],
     "path": "/en/tag/guide/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "账本 Tag",
-    "headers": [],
-    "path": "/en/tag/%E8%B4%A6%E6%9C%AC/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "日记 Tag",
-    "headers": [],
-    "path": "/en/tag/%E6%97%A5%E8%AE%B0/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "原神 Tag",
-    "headers": [],
-    "path": "/en/tag/%E5%8E%9F%E7%A5%9E/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1314,3 +1314,16 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}
