@@ -9,17 +9,17 @@ export const zhNavbar = navbar([
   },
   {
     text: "歌词",
-    icon: "edit",
+    icon: "blog",
     link: "/lyrics/xiju",
   },
   {
     text: "时间轴",
-    icon: "note",
+    icon: "time",
     link: "/timeline/",
   },
   {
     text: "回顾",
-    icon: "note",
+    icon: "page",
     link: "/docs/",
   },
 ]);

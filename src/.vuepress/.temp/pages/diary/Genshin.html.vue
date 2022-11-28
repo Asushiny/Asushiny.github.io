@@ -1,5 +1,9 @@
 <template><div><h1 id="原神" tabindex="-1"><a class="header-anchor" href="#原神" aria-hidden="true">#</a> 原神</h1>
 <h2 id="_2022" tabindex="-1"><a class="header-anchor" href="#_2022" aria-hidden="true">#</a> 2022</h2>
+<h3 id="_2022-11-02" tabindex="-1"><a class="header-anchor" href="#_2022-11-02" aria-hidden="true">#</a> 2022-11-02</h3>
+<ul>
+<li>给宵宫补了飞雷</li>
+</ul>
 <h3 id="_2022-09-29" tabindex="-1"><a class="header-anchor" href="#_2022-09-29" aria-hidden="true">#</a> 2022-09-29</h3>
 <ul>
 <li>等妮露中...</li>

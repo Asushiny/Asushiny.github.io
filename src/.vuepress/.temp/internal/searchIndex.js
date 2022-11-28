@@ -1,22 +1,8 @@
 export const searchIndex = [
   {
-    "title": "介绍页",
-    "headers": [],
-    "path": "/intro.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "博客",
     "headers": [],
     "path": "/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "幻灯片页",
-    "headers": [],
-    "path": "/slides.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -140,7 +126,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/diary/Bookkeeping.html",
+    "path": "/diary/bookkeeping.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -149,45 +135,30 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "2022-01-12",
-        "slug": "_2022-01-12",
-        "link": "#_2022-01-12",
+        "title": "2022-11-21",
+        "slug": "_2022-11-21",
+        "link": "#_2022-11-21",
         "children": [
           {
             "level": 3,
-            "title": "今天，搭建了属于自己的博客。",
-            "slug": "今天-搭建了属于自己的博客。",
-            "link": "#今天-搭建了属于自己的博客。",
+            "title": "疫情，被困在家。。。",
+            "slug": "疫情-被困在家。。。",
+            "link": "#疫情-被困在家。。。",
             "children": []
           }
         ]
       },
       {
         "level": 2,
-        "title": "2022-04-28",
-        "slug": "_2022-04-28",
-        "link": "#_2022-04-28",
+        "title": "2022-09-21",
+        "slug": "_2022-09-21",
+        "link": "#_2022-09-21",
         "children": [
           {
             "level": 3,
-            "title": "Liella!策划加了四个人，MD裂开了",
-            "slug": "liella-策划加了四个人-md裂开了",
-            "link": "#liella-策划加了四个人-md裂开了",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-07-17",
-        "slug": "_2022-07-17",
-        "link": "#_2022-07-17",
-        "children": [
-          {
-            "level": 3,
-            "title": "可可",
-            "slug": "可可",
-            "link": "#可可",
+            "title": "To Work！",
+            "slug": "to-work",
+            "link": "#to-work",
             "children": []
           }
         ]
@@ -209,45 +180,45 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "2022-09-21",
-        "slug": "_2022-09-21",
-        "link": "#_2022-09-21",
+        "title": "2022-07-17",
+        "slug": "_2022-07-17",
+        "link": "#_2022-07-17",
         "children": [
           {
             "level": 3,
-            "title": "今天开始去上班啦！",
-            "slug": "今天开始去上班啦",
-            "link": "#今天开始去上班啦",
+            "title": "可可",
+            "slug": "可可",
+            "link": "#可可",
             "children": []
           }
         ]
       },
       {
         "level": 2,
-        "title": "2022-11-21",
-        "slug": "_2022-11-21",
-        "link": "#_2022-11-21",
+        "title": "2022-04-28",
+        "slug": "_2022-04-28",
+        "link": "#_2022-04-28",
         "children": [
           {
             "level": 3,
-            "title": "疫情，被困在家。。。",
-            "slug": "疫情-被困在家。。。",
-            "link": "#疫情-被困在家。。。",
+            "title": "Liella!策划加了四个人，MD裂开了",
+            "slug": "liella-策划加了四个人-md裂开了",
+            "link": "#liella-策划加了四个人-md裂开了",
             "children": []
           }
         ]
       },
       {
         "level": 2,
-        "title": "2022-11-27",
-        "slug": "_2022-11-27",
-        "link": "#_2022-11-27",
+        "title": "2022-01-12",
+        "slug": "_2022-01-12",
+        "link": "#_2022-01-12",
         "children": [
           {
             "level": 3,
-            "title": "据说明天就解封啦!芜湖!",
-            "slug": "据说明天就解封啦-芜湖",
-            "link": "#据说明天就解封啦-芜湖",
+            "title": "今天，搭建了属于自己的博客。",
+            "slug": "今天-搭建了属于自己的博客。",
+            "link": "#今天-搭建了属于自己的博客。",
             "children": []
           }
         ]
@@ -266,6 +237,13 @@ export const searchIndex = [
         "slug": "_2022",
         "link": "#_2022",
         "children": [
+          {
+            "level": 3,
+            "title": "2022-11-02",
+            "slug": "_2022-11-02",
+            "link": "#_2022-11-02",
+            "children": []
+          },
           {
             "level": 3,
             "title": "2022-09-29",
@@ -345,23 +323,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Intro Page",
-    "headers": [],
-    "path": "/en/intro.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "Blog",
     "headers": [],
     "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Slide page",
-    "headers": [],
-    "path": "/en/slides.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -507,6 +471,137 @@ export const searchIndex = [
     ],
     "path": "/lyrics/xxlg.html",
     "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "介绍页",
+    "headers": [],
+    "path": "/pages/intro.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "幻灯片页",
+    "headers": [],
+    "path": "/pages/slides.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "回顾",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022",
+        "slug": "_2022",
+        "link": "#_2022",
+        "children": []
+      }
+    ],
+    "path": "/en/docs/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Disabling layout and features",
+    "headers": [],
+    "path": "/en/demo/disable.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Encryption Article",
+    "headers": [],
+    "path": "/en/demo/encrypt.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Markdown Enhance",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Markdown Introduction",
+        "slug": "markdown-introduction",
+        "link": "#markdown-introduction",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Markdown Config",
+        "slug": "markdown-config",
+        "link": "#markdown-config",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Markdown Extension",
+        "slug": "markdown-extension",
+        "link": "#markdown-extension",
+        "children": [
+          {
+            "level": 3,
+            "title": "VuePress Enhancement",
+            "slug": "vuepress-enhancement",
+            "link": "#vuepress-enhancement",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Theme Enhancement",
+            "slug": "theme-enhancement",
+            "link": "#theme-enhancement",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/en/demo/markdown.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Page Config",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Page Information",
+        "slug": "page-information",
+        "link": "#page-information",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Page Content",
+        "slug": "page-content",
+        "link": "#page-content",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Page Structure",
+        "slug": "page-structure",
+        "link": "#page-structure",
+        "children": []
+      }
+    ],
+    "path": "/en/demo/page.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Features Demo",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Catalog",
+        "slug": "catalog",
+        "link": "#catalog",
+        "children": []
+      }
+    ],
+    "path": "/en/demo/",
+    "pathLocale": "/en/",
     "extraFields": []
   },
   {
@@ -710,123 +805,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Disabling layout and features",
-    "headers": [],
-    "path": "/en/demo/disable.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Encryption Article",
-    "headers": [],
-    "path": "/en/demo/encrypt.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Markdown Enhance",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Markdown Introduction",
-        "slug": "markdown-introduction",
-        "link": "#markdown-introduction",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown Config",
-        "slug": "markdown-config",
-        "link": "#markdown-config",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown Extension",
-        "slug": "markdown-extension",
-        "link": "#markdown-extension",
-        "children": [
-          {
-            "level": 3,
-            "title": "VuePress Enhancement",
-            "slug": "vuepress-enhancement",
-            "link": "#vuepress-enhancement",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Theme Enhancement",
-            "slug": "theme-enhancement",
-            "link": "#theme-enhancement",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/en/demo/markdown.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Page Config",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Page Information",
-        "slug": "page-information",
-        "link": "#page-information",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Page Content",
-        "slug": "page-content",
-        "link": "#page-content",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Page Structure",
-        "slug": "page-structure",
-        "link": "#page-structure",
-        "children": []
-      }
-    ],
-    "path": "/en/demo/page.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Features Demo",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Catalog",
-        "slug": "catalog",
-        "link": "#catalog",
-        "children": []
-      }
-    ],
-    "path": "/en/demo/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "回顾",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
-        "children": []
-      }
-    ],
-    "path": "/en/docs/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "花の塔",
     "headers": [
       {
@@ -967,6 +945,20 @@ export const searchIndex = [
       }
     ],
     "path": "/en/lyrics/xxlg.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Intro Page",
+    "headers": [],
+    "path": "/en/pages/intro.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Slide page",
+    "headers": [],
+    "path": "/en/pages/slides.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -1132,9 +1124,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "日记 Category",
+    "title": "Guide Category",
     "headers": [],
-    "path": "/en/category/%E6%97%A5%E8%AE%B0/",
+    "path": "/en/category/guide/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1146,9 +1138,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "游戏 Category",
+    "title": "日记 Category",
     "headers": [],
-    "path": "/en/category/%E6%B8%B8%E6%88%8F/",
+    "path": "/en/category/%E6%97%A5%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1160,9 +1152,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Guide Category",
+    "title": "游戏 Category",
     "headers": [],
-    "path": "/en/category/guide/",
+    "path": "/en/category/%E6%B8%B8%E6%88%8F/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1223,27 +1215,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "账本 Tag",
-    "headers": [],
-    "path": "/en/tag/%E8%B4%A6%E6%9C%AC/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "日记 Tag",
-    "headers": [],
-    "path": "/en/tag/%E6%97%A5%E8%AE%B0/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "原神 Tag",
-    "headers": [],
-    "path": "/en/tag/%E5%8E%9F%E7%A5%9E/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "disable Tag",
     "headers": [],
     "path": "/en/tag/disable/",
@@ -1275,6 +1246,27 @@ export const searchIndex = [
     "title": "Guide Tag",
     "headers": [],
     "path": "/en/tag/guide/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "账本 Tag",
+    "headers": [],
+    "path": "/en/tag/%E8%B4%A6%E6%9C%AC/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "日记 Tag",
+    "headers": [],
+    "path": "/en/tag/%E6%97%A5%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "原神 Tag",
+    "headers": [],
+    "path": "/en/tag/%E5%8E%9F%E7%A5%9E/",
     "pathLocale": "/",
     "extraFields": []
   },

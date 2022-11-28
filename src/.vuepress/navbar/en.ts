@@ -9,17 +9,17 @@ export const enNavbar = navbar([
 	},
 	{
 		text: "Lyric",
-		icon: "edit",
+		icon: "blog",
 		link: "/lyrics/xiju",
 	},
 	{
 		text: "timeline",
-		icon: "note",
+		icon: "time",
 		link: "/timeline/",
 	},
 	{
 		text: "Review",
-		icon: "note",
+		icon: "page",
 		link: "/en/docs/",
 	},
 ]);

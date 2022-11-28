@@ -1,1 +1,15 @@
 // place your custom styles here
+.blog-hero > :not(.mask) {
+    top: 100px;
+}
+.blog-hero h1 {
+    font-size: 5rem !important;
+	color: #94bcda;
+}
+.category8,.tag8 {
+    background: #addeff !important;
+    color: #2682ff !important;
+}
+.category-list-wrapper .category8 .category-num {
+    background: #2682ff !important;
+}

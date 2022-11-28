@@ -63,7 +63,7 @@ export default hopeTheme({
 
 			blog: {
 				description: "一个普通人",
-				intro: "/intro.html",
+				intro: "pages/intro.html",
 			},
 
 			// page meta
@@ -85,7 +85,7 @@ export default hopeTheme({
 
 			blog: {
 				description: "An ordinary person",
-				intro: "/en/intro.html",
+				intro: "/en/pages/intro.html",
 			},
 
 			metaLocales: {
