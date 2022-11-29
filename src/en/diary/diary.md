@@ -2,11 +2,11 @@
 date: 2022-01-12
 order: 2
 category:
-  - 日记
+  - Diary
 tag:
-  - 日记
+  - Diary
 ---
-# 日记
+# Diary
 ## 2022-01-12
 ### 今天，搭建了属于自己的博客。
 ![myBlog](/assets/diary/myBlog.png)

@@ -3,9 +3,9 @@ date: 2022-07-22
 order: 3
 author: 酸欠少女さユり
 category:
- -  歌词
+ -  lyric
 tag:
- - 歌词
+ - lyric
  - Lycoris Recoil
 ---
 

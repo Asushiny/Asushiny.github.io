@@ -126,7 +126,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/diary/bookkeeping.html",
+    "path": "/diary/Bookkeeping.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -308,6 +308,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Blog",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
     "title": "回顾",
     "headers": [
       {
@@ -320,13 +327,6 @@ export const searchIndex = [
     ],
     "path": "/docs/",
     "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blog",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
     "extraFields": []
   },
   {
@@ -488,21 +488,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "回顾",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
-        "children": []
-      }
-    ],
-    "path": "/en/docs/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "Disabling layout and features",
     "headers": [],
     "path": "/en/demo/disable.html",
@@ -605,7 +590,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "账本",
+    "title": "bookkeeping",
     "headers": [
       {
         "level": 2,
@@ -615,12 +600,12 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/en/diary/Bookkeeping.html",
+    "path": "/en/diary/bookkeeping.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
   {
-    "title": "日记",
+    "title": "Diary",
     "headers": [
       {
         "level": 2,
@@ -733,7 +718,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "原神",
+    "title": "Genshin",
     "headers": [
       {
         "level": 2,
@@ -801,6 +786,21 @@ export const searchIndex = [
       }
     ],
     "path": "/en/diary/genshin.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Review",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022",
+        "slug": "_2022",
+        "link": "#_2022",
+        "children": []
+      }
+    ],
+    "path": "/en/docs/",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -1138,9 +1138,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "日记 Category",
+    "title": "Diary Category",
     "headers": [],
-    "path": "/en/category/%E6%97%A5%E8%AE%B0/",
+    "path": "/en/category/diary/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1152,9 +1152,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "游戏 Category",
+    "title": "Game Category",
     "headers": [],
-    "path": "/en/category/%E6%B8%B8%E6%88%8F/",
+    "path": "/en/category/game/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1166,9 +1166,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "歌词 Category",
+    "title": "lyric Category",
     "headers": [],
-    "path": "/en/category/%E6%AD%8C%E8%AF%8D/",
+    "path": "/en/category/lyric/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1250,30 +1250,30 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "账本 Tag",
+    "title": "bookkeeping Tag",
     "headers": [],
-    "path": "/en/tag/%E8%B4%A6%E6%9C%AC/",
+    "path": "/en/tag/bookkeeping/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "日记 Tag",
+    "title": "Diary Tag",
     "headers": [],
-    "path": "/en/tag/%E6%97%A5%E8%AE%B0/",
+    "path": "/en/tag/diary/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "原神 Tag",
+    "title": "Genshin Tag",
     "headers": [],
-    "path": "/en/tag/%E5%8E%9F%E7%A5%9E/",
+    "path": "/en/tag/genshin/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "歌词 Tag",
+    "title": "lyric Tag",
     "headers": [],
-    "path": "/en/tag/%E6%AD%8C%E8%AF%8D/",
+    "path": "/en/tag/lyric/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1285,9 +1285,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "四月是你的谎言 Tag",
+    "title": "光るなら Tag",
     "headers": [],
-    "path": "/en/tag/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80/",
+    "path": "/en/tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1299,9 +1299,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "小小恋歌 Tag",
+    "title": "小さな恋のうた Tag",
     "headers": [],
-    "path": "/en/tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/",
+    "path": "/en/tag/%E5%B0%8F%E3%81%95%E3%81%AA%E6%81%8B%E3%81%AE%E3%81%86%E3%81%9F/",
     "pathLocale": "/",
     "extraFields": []
   }

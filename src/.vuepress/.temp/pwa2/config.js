@@ -1,6 +1,6 @@
 import { defineClientConfig } from "@vuepress/client";
-import { setupPWA } from "D:/练习/Blog/Asushiny/node_modules/vuepress-plugin-pwa2/lib/client/composables/setup.js";
-import SWUpdatePopup from "D:/练习/Blog/Asushiny/node_modules/vuepress-plugin-pwa2/lib/client/components/SWUpdatePopup.js";
+import { setupPWA } from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-pwa2/lib/client/composables/setup.js";
+import SWUpdatePopup from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-pwa2/lib/client/components/SWUpdatePopup.js";
 
 
 export default defineClientConfig({

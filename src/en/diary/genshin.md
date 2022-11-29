@@ -2,12 +2,12 @@
 date: 2022-02-08
 order: 1
 category:
-  - 日记
-  - 游戏
+  - Diary
+  - Game
 tag:
-  - 原神
+  - Genshin
 ---
-# 原神
+# Genshin
 ## 2022
 ### 2022-09-29
 - 等妮露中...

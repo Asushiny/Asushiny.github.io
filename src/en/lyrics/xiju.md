@@ -3,9 +3,9 @@ date: 2022-06-25
 order: 1
 author: 星野源（Hoshino Gen）
 category:
- -  歌词
+ -  lyric
 tag:
- - 歌词
+ - lyric
  - 喜剧
 ---
 

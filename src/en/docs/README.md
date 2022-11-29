@@ -1,10 +1,10 @@
 ---
-title: 回顾
+title: Review
 date: 2022-01-12
-icon: note
+icon: page
 ---
 
-`more` 记录博客的点滴
+`more` Record every bit of blog.
 
 <!-- more -->
 ## 2022

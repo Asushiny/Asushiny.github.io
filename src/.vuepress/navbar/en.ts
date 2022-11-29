@@ -13,7 +13,7 @@ export const enNavbar = navbar([
 		link: "/en/lyrics/xiju",
 	},
 	{
-		text: "timeline",
+		text: "Timeline",
 		icon: "time",
 		link: "/en/timeline/",
 	},

@@ -1,4 +1,4 @@
-<template><div><p><code v-pre>more</code> 记录博客的点滴</p>
+<template><div><p><code v-pre>more</code> Record every bit of blog.</p>
 <!-- more -->
 <h2 id="_2022" tabindex="-1"><a class="header-anchor" href="#_2022" aria-hidden="true">#</a> 2022</h2>
 <ul>

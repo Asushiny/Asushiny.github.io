@@ -2,11 +2,11 @@
 date: 2022-10-11
 order: 3
 category:
- -  日记
+ -  Diary
 tag:
- - 账本
+ - bookkeeping
 ---
-# 账本
+# bookkeeping
 ## 2022
 ::: details 2022-10-11
 发了九月份的工资1154元<br />

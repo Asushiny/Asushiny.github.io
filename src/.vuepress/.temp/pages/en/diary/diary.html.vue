@@ -1,4 +1,4 @@
-<template><div><h1 id="日记" tabindex="-1"><a class="header-anchor" href="#日记" aria-hidden="true">#</a> 日记</h1>
+<template><div><h1 id="diary" tabindex="-1"><a class="header-anchor" href="#diary" aria-hidden="true">#</a> Diary</h1>
 <h2 id="_2022-01-12" tabindex="-1"><a class="header-anchor" href="#_2022-01-12" aria-hidden="true">#</a> 2022-01-12</h2>
 <h3 id="今天-搭建了属于自己的博客。" tabindex="-1"><a class="header-anchor" href="#今天-搭建了属于自己的博客。" aria-hidden="true">#</a> 今天，搭建了属于自己的博客。</h3>
 <p><img src="/assets/diary/myBlog.png" alt="myBlog" loading="lazy"></p>

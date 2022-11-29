@@ -1,4 +1,4 @@
-<template><div><h1 id="账本" tabindex="-1"><a class="header-anchor" href="#账本" aria-hidden="true">#</a> 账本</h1>
+<template><div><h1 id="bookkeeping" tabindex="-1"><a class="header-anchor" href="#bookkeeping" aria-hidden="true">#</a> bookkeeping</h1>
 <h2 id="_2022" tabindex="-1"><a class="header-anchor" href="#_2022" aria-hidden="true">#</a> 2022</h2>
 <details class="custom-container details"><summary>2022-10-11</summary>
 <p>发了九月份的工资1154元<br />
