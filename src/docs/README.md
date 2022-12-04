@@ -8,7 +8,9 @@ icon: note
 
 <!-- more -->
 ## 2022
-- 2022-11-26 博客主题更改为vuepress-theme-hope。
+- 2022-11-26 博客主题更改为vuepress-theme-hope V2。
+
+- 2022-11-26 博客框架更改为vuepress V2。
 
 - 2022-09-28 新增域名austur.top
 

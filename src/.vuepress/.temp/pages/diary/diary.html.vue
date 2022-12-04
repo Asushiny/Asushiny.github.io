@@ -1,4 +1,7 @@
 <template><div><h1 id="日记" tabindex="-1"><a class="header-anchor" href="#日记" aria-hidden="true">#</a> 日记</h1>
+<h2 id="_2022-12-04" tabindex="-1"><a class="header-anchor" href="#_2022-12-04" aria-hidden="true">#</a> 2022-12-04</h2>
+<h3 id="今天买了辆电动车用来上班出行" tabindex="-1"><a class="header-anchor" href="#今天买了辆电动车用来上班出行" aria-hidden="true">#</a> 今天买了辆电动车用来上班出行</h3>
+<h3 id="发现自己的银行卡都因为太久没用而被锁定了" tabindex="-1"><a class="header-anchor" href="#发现自己的银行卡都因为太久没用而被锁定了" aria-hidden="true">#</a> 发现自己的银行卡都因为太久没用而被锁定了🙃</h3>
 <h2 id="_2022-11-21" tabindex="-1"><a class="header-anchor" href="#_2022-11-21" aria-hidden="true">#</a> 2022-11-21</h2>
 <h3 id="疫情-被困在家。。。" tabindex="-1"><a class="header-anchor" href="#疫情-被困在家。。。" aria-hidden="true">#</a> 疫情，被困在家。。。</h3>
 <h2 id="_2022-09-21" tabindex="-1"><a class="header-anchor" href="#_2022-09-21" aria-hidden="true">#</a> 2022-09-21</h2>

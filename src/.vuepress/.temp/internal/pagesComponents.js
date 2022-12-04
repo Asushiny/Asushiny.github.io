@@ -19,10 +19,12 @@ export const pagesComponents = {
   "v-3945b48a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3945b48a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/diary.html.vue")),
   // path: /diary/genshin.html
   "v-dcafa1d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-dcafa1d8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/genshin.html.vue")),
-  // path: /en/
-  "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.vue")),
   // path: /docs/
   "v-147825fb": defineAsyncComponent(() => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.vue")),
+  // path: /en/
+  "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.vue")),
+  // path: /lyrics/hectopascal.html
+  "v-6d58136e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.vue")),
   // path: /lyrics/lycoris.html
   "v-56452198": defineAsyncComponent(() => import(/* webpackChunkName: "v-56452198" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/lycoris.html.vue")),
   // path: /lyrics/rnzfgm.html
@@ -51,8 +53,6 @@ export const pagesComponents = {
   "v-3ada11cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ada11cf" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/diary.html.vue")),
   // path: /en/diary/genshin.html
   "v-04cb33b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-04cb33b0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/genshin.html.vue")),
-  // path: /en/docs/
-  "v-39540332": defineAsyncComponent(() => import(/* webpackChunkName: "v-39540332" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/docs/index.html.vue")),
   // path: /en/lyrics/lycoris.html
   "v-6899cd04": defineAsyncComponent(() => import(/* webpackChunkName: "v-6899cd04" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/lycoris.html.vue")),
   // path: /en/lyrics/rnzfgm.html
@@ -61,6 +61,8 @@ export const pagesComponents = {
   "v-138c530f": defineAsyncComponent(() => import(/* webpackChunkName: "v-138c530f" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xiju.html.vue")),
   // path: /en/lyrics/xxlg.html
   "v-7ba691f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ba691f0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xxlg.html.vue")),
+  // path: /en/docs/
+  "v-39540332": defineAsyncComponent(() => import(/* webpackChunkName: "v-39540332" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/docs/index.html.vue")),
   // path: /en/pages/intro.html
   "v-4ea1ea25": defineAsyncComponent(() => import(/* webpackChunkName: "v-4ea1ea25" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/pages/intro.html.vue")),
   // path: /en/pages/slides.html
@@ -127,6 +129,10 @@ export const pagesComponents = {
   "v-18a9ef34": defineAsyncComponent(() => import(/* webpackChunkName: "v-18a9ef34" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/lyric/index.html.vue")),
   // path: /tag/%E6%AD%8C%E8%AF%8D/
   "v-93bf9380": defineAsyncComponent(() => import(/* webpackChunkName: "v-93bf9380" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/歌词/index.html.vue")),
+  // path: /tag/hectopascal/
+  "v-7bfa3bf0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7bfa3bf0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/hectopascal/index.html.vue")),
+  // path: /tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/
+  "v-2959f73a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2959f73a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/终将成为你/index.html.vue")),
   // path: /tag/lycoris-recoil/
   "v-fdaf25d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-fdaf25d6" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/lycoris-recoil/index.html.vue")),
   // path: /tag/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80/

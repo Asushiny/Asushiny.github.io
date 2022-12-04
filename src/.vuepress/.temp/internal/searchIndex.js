@@ -135,6 +135,28 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "2022-12-04",
+        "slug": "_2022-12-04",
+        "link": "#_2022-12-04",
+        "children": [
+          {
+            "level": 3,
+            "title": "今天买了辆电动车用来上班出行",
+            "slug": "今天买了辆电动车用来上班出行",
+            "link": "#今天买了辆电动车用来上班出行",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "发现自己的银行卡都因为太久没用而被锁定了🙃",
+            "slug": "发现自己的银行卡都因为太久没用而被锁定了",
+            "link": "#发现自己的银行卡都因为太久没用而被锁定了",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
         "title": "2022-11-21",
         "slug": "_2022-11-21",
         "link": "#_2022-11-21",
@@ -308,13 +330,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Blog",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "回顾",
     "headers": [
       {
@@ -326,6 +341,28 @@ export const searchIndex = [
       }
     ],
     "path": "/docs/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blog",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "hectopascal",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Part 1",
+        "slug": "part-1",
+        "link": "#part-1",
+        "children": []
+      }
+    ],
+    "path": "/lyrics/hectopascal.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -790,21 +827,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Review",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
-        "children": []
-      }
-    ],
-    "path": "/en/docs/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "花の塔",
     "headers": [
       {
@@ -945,6 +967,21 @@ export const searchIndex = [
       }
     ],
     "path": "/en/lyrics/xxlg.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Review",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022",
+        "slug": "_2022",
+        "link": "#_2022",
+        "children": []
+      }
+    ],
+    "path": "/en/docs/",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -1176,6 +1213,20 @@ export const searchIndex = [
     "title": "歌词 标签",
     "headers": [],
     "path": "/tag/%E6%AD%8C%E8%AF%8D/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "hectopascal 标签",
+    "headers": [],
+    "path": "/tag/hectopascal/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "终将成为你 标签",
+    "headers": [],
+    "path": "/tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/",
     "pathLocale": "/",
     "extraFields": []
   },

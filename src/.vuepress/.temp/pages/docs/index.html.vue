@@ -3,7 +3,10 @@
 <h2 id="_2022" tabindex="-1"><a class="header-anchor" href="#_2022" aria-hidden="true">#</a> 2022</h2>
 <ul>
 <li>
-<p>2022-11-26 博客主题更改为vuepress-theme-hope。</p>
+<p>2022-11-26 博客主题更改为vuepress-theme-hope V2。</p>
+</li>
+<li>
+<p>2022-11-26 博客框架更改为vuepress V2。</p>
 </li>
 <li>
 <p>2022-09-28 新增域名austur.top</p>
