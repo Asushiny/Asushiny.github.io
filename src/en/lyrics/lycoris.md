@@ -1,11 +1,11 @@
 ---
 date: 2022-07-22
-order: 3
 author: 酸欠少女さユり
 category:
- -  lyric
+ -  歌词
 tag:
- - lyric
+ - 歌词
+ - 花の塔
  - Lycoris Recoil
 ---
 

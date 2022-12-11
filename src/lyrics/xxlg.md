@@ -1,6 +1,5 @@
 ---
 date: 2022-04-08
-order: 2
 author: Mongol800 (モンゴル800)
 category:
  -  歌词

@@ -1,11 +1,11 @@
 ---
 date: 2022-02-18
-order: 5
 author: Goose house (グースハウス)
 category:
  -  歌词
 tag:
  - 歌词
+ - 光るなら
  - 四月是你的谎言
 ---
 

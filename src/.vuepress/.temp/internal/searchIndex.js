@@ -126,7 +126,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/diary/Bookkeeping.html",
+    "path": "/diary/bookkeeping.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -330,6 +330,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Blog",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
     "title": "回顾",
     "headers": [
       {
@@ -345,20 +352,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Blog",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "hectopascal",
+    "title": "Hectopascal",
     "headers": [
       {
         "level": 2,
         "title": "Part 1",
         "slug": "part-1",
         "link": "#part-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Part 2",
+        "slug": "part-2",
+        "link": "#part-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Part 3",
+        "slug": "part-3",
+        "link": "#part-3",
         "children": []
       }
     ],
@@ -627,7 +641,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "bookkeeping",
+    "title": "Review",
     "headers": [
       {
         "level": 2,
@@ -637,192 +651,50 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/en/diary/bookkeeping.html",
+    "path": "/en/docs/",
     "pathLocale": "/en/",
     "extraFields": []
   },
   {
-    "title": "Diary",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2022-01-12",
-        "slug": "_2022-01-12",
-        "link": "#_2022-01-12",
-        "children": [
-          {
-            "level": 3,
-            "title": "今天，搭建了属于自己的博客。",
-            "slug": "今天-搭建了属于自己的博客。",
-            "link": "#今天-搭建了属于自己的博客。",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-04-28",
-        "slug": "_2022-04-28",
-        "link": "#_2022-04-28",
-        "children": [
-          {
-            "level": 3,
-            "title": "Liella!策划加了四个人，MD裂开了",
-            "slug": "liella-策划加了四个人-md裂开了",
-            "link": "#liella-策划加了四个人-md裂开了",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-07-17",
-        "slug": "_2022-07-17",
-        "link": "#_2022-07-17",
-        "children": [
-          {
-            "level": 3,
-            "title": "可可",
-            "slug": "可可",
-            "link": "#可可",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-07-25",
-        "slug": "_2022-07-25",
-        "link": "#_2022-07-25",
-        "children": [
-          {
-            "level": 3,
-            "title": "千泷",
-            "slug": "千泷",
-            "link": "#千泷",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-09-21",
-        "slug": "_2022-09-21",
-        "link": "#_2022-09-21",
-        "children": [
-          {
-            "level": 3,
-            "title": "今天开始去上班啦！",
-            "slug": "今天开始去上班啦",
-            "link": "#今天开始去上班啦",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-11-21",
-        "slug": "_2022-11-21",
-        "link": "#_2022-11-21",
-        "children": [
-          {
-            "level": 3,
-            "title": "疫情，被困在家。。。",
-            "slug": "疫情-被困在家。。。",
-            "link": "#疫情-被困在家。。。",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "2022-11-27",
-        "slug": "_2022-11-27",
-        "link": "#_2022-11-27",
-        "children": [
-          {
-            "level": 3,
-            "title": "据说明天就解封啦!芜湖!",
-            "slug": "据说明天就解封啦-芜湖",
-            "link": "#据说明天就解封啦-芜湖",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/en/diary/diary.html",
+    "title": "Intro Page",
+    "headers": [],
+    "path": "/en/pages/intro.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
   {
-    "title": "Genshin",
+    "title": "Slide page",
+    "headers": [],
+    "path": "/en/pages/slides.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Hectopascal",
     "headers": [
       {
         "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
-        "children": [
-          {
-            "level": 3,
-            "title": "2022-09-29",
-            "slug": "_2022-09-29",
-            "link": "#_2022-09-29",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-08-26",
-            "slug": "_2022-08-26",
-            "link": "#_2022-08-26",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-08-02",
-            "slug": "_2022-08-02",
-            "link": "#_2022-08-02",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-07-13",
-            "slug": "_2022-07-13",
-            "link": "#_2022-07-13",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-07-01",
-            "slug": "_2022-07-01",
-            "link": "#_2022-07-01",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-04-19",
-            "slug": "_2022-04-19",
-            "link": "#_2022-04-19",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-02-21",
-            "slug": "_2022-02-21",
-            "link": "#_2022-02-21",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "2022-02-11",
-            "slug": "_2022-02-11",
-            "link": "#_2022-02-11",
-            "children": []
-          }
-        ]
+        "title": "Part 1",
+        "slug": "part-1",
+        "link": "#part-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Part 2",
+        "slug": "part-2",
+        "link": "#part-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Part 3",
+        "slug": "part-3",
+        "link": "#part-3",
+        "children": []
       }
     ],
-    "path": "/en/diary/genshin.html",
+    "path": "/en/lyrics/hectopascal.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -967,35 +839,6 @@ export const searchIndex = [
       }
     ],
     "path": "/en/lyrics/xxlg.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Review",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
-        "children": []
-      }
-    ],
-    "path": "/en/docs/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Intro Page",
-    "headers": [],
-    "path": "/en/pages/intro.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Slide page",
-    "headers": [],
-    "path": "/en/pages/slides.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -1175,9 +1018,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Diary Category",
+    "title": "歌词 Category",
     "headers": [],
-    "path": "/en/category/diary/",
+    "path": "/en/category/%E6%AD%8C%E8%AF%8D/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1189,23 +1032,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Game Category",
-    "headers": [],
-    "path": "/en/category/game/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "原神 标签",
     "headers": [],
     "path": "/tag/%E5%8E%9F%E7%A5%9E/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "lyric Category",
-    "headers": [],
-    "path": "/en/category/lyric/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1217,7 +1046,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "hectopascal 标签",
+    "title": "Hectopascal 标签",
     "headers": [],
     "path": "/tag/hectopascal/",
     "pathLocale": "/",
@@ -1301,30 +1130,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "bookkeeping Tag",
+    "title": "歌词 Tag",
     "headers": [],
-    "path": "/en/tag/bookkeeping/",
+    "path": "/en/tag/%E6%AD%8C%E8%AF%8D/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Diary Tag",
+    "title": "Hectopascal Tag",
     "headers": [],
-    "path": "/en/tag/diary/",
+    "path": "/en/tag/hectopascal/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Genshin Tag",
+    "title": "终将成为你 Tag",
     "headers": [],
-    "path": "/en/tag/genshin/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "lyric Tag",
-    "headers": [],
-    "path": "/en/tag/lyric/",
+    "path": "/en/tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1336,9 +1158,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "光るなら Tag",
+    "title": "四月是你的谎言 Tag",
     "headers": [],
-    "path": "/en/tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/",
+    "path": "/en/tag/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1350,9 +1172,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "小さな恋のうた Tag",
+    "title": "小小恋歌 Tag",
     "headers": [],
-    "path": "/en/tag/%E5%B0%8F%E3%81%95%E3%81%AA%E6%81%8B%E3%81%AE%E3%81%86%E3%81%9F/",
+    "path": "/en/tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/",
     "pathLocale": "/",
     "extraFields": []
   }

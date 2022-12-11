@@ -13,16 +13,16 @@ export const pagesComponents = {
   "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/demo/page.html.vue")),
   // path: /demo/
   "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/demo/index.html.vue")),
-  // path: /diary/Bookkeeping.html
-  "v-2225f56c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2225f56c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/Bookkeeping.html.vue")),
+  // path: /diary/bookkeeping.html
+  "v-2128c12a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2128c12a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/bookkeeping.html.vue")),
   // path: /diary/diary.html
   "v-3945b48a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3945b48a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/diary.html.vue")),
   // path: /diary/genshin.html
   "v-dcafa1d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-dcafa1d8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/genshin.html.vue")),
-  // path: /docs/
-  "v-147825fb": defineAsyncComponent(() => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.vue")),
   // path: /en/
   "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.vue")),
+  // path: /docs/
+  "v-147825fb": defineAsyncComponent(() => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.vue")),
   // path: /lyrics/hectopascal.html
   "v-6d58136e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.vue")),
   // path: /lyrics/lycoris.html
@@ -47,20 +47,6 @@ export const pagesComponents = {
   "v-0e4acecb": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e4acecb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/demo/page.html.vue")),
   // path: /en/demo/
   "v-395cd082": defineAsyncComponent(() => import(/* webpackChunkName: "v-395cd082" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/demo/index.html.vue")),
-  // path: /en/diary/bookkeeping.html
-  "v-4c414e3e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c414e3e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/bookkeeping.html.vue")),
-  // path: /en/diary/diary.html
-  "v-3ada11cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ada11cf" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/diary.html.vue")),
-  // path: /en/diary/genshin.html
-  "v-04cb33b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-04cb33b0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/genshin.html.vue")),
-  // path: /en/lyrics/lycoris.html
-  "v-6899cd04": defineAsyncComponent(() => import(/* webpackChunkName: "v-6899cd04" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/lycoris.html.vue")),
-  // path: /en/lyrics/rnzfgm.html
-  "v-b849f706": defineAsyncComponent(() => import(/* webpackChunkName: "v-b849f706" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/rnzfgm.html.vue")),
-  // path: /en/lyrics/xiju.html
-  "v-138c530f": defineAsyncComponent(() => import(/* webpackChunkName: "v-138c530f" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xiju.html.vue")),
-  // path: /en/lyrics/xxlg.html
-  "v-7ba691f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ba691f0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xxlg.html.vue")),
   // path: /en/docs/
   "v-39540332": defineAsyncComponent(() => import(/* webpackChunkName: "v-39540332" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/docs/index.html.vue")),
   // path: /en/pages/intro.html
@@ -117,16 +103,12 @@ export const pagesComponents = {
   "v-0fe52c37": defineAsyncComponent(() => import(/* webpackChunkName: "v-0fe52c37" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/guide/index.html.vue")),
   // path: /tag/%E8%B4%A6%E6%9C%AC/
   "v-6b813b8e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6b813b8e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/账本/index.html.vue")),
-  // path: /en/category/diary/
-  "v-0a1a1c50": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a1a1c50" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/diary/index.html.vue")),
+  // path: /en/category/%E6%AD%8C%E8%AF%8D/
+  "v-141f136c": defineAsyncComponent(() => import(/* webpackChunkName: "v-141f136c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/歌词/index.html.vue")),
   // path: /tag/%E6%97%A5%E8%AE%B0/
   "v-e09e86ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-e09e86ea" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/日记/index.html.vue")),
-  // path: /en/category/game/
-  "v-0f8fab0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f8fab0e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/game/index.html.vue")),
   // path: /tag/%E5%8E%9F%E7%A5%9E/
   "v-7c2c6aa7": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c2c6aa7" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/原神/index.html.vue")),
-  // path: /en/category/lyric/
-  "v-18a9ef34": defineAsyncComponent(() => import(/* webpackChunkName: "v-18a9ef34" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/lyric/index.html.vue")),
   // path: /tag/%E6%AD%8C%E8%AF%8D/
   "v-93bf9380": defineAsyncComponent(() => import(/* webpackChunkName: "v-93bf9380" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/歌词/index.html.vue")),
   // path: /tag/hectopascal/
@@ -153,20 +135,34 @@ export const pagesComponents = {
   "v-7e751551": defineAsyncComponent(() => import(/* webpackChunkName: "v-7e751551" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/page-config/index.html.vue")),
   // path: /en/tag/guide/
   "v-29e33f95": defineAsyncComponent(() => import(/* webpackChunkName: "v-29e33f95" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/guide/index.html.vue")),
-  // path: /en/tag/bookkeeping/
-  "v-56ef1e46": defineAsyncComponent(() => import(/* webpackChunkName: "v-56ef1e46" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/bookkeeping/index.html.vue")),
-  // path: /en/tag/diary/
-  "v-24182fae": defineAsyncComponent(() => import(/* webpackChunkName: "v-24182fae" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/diary/index.html.vue")),
-  // path: /en/tag/genshin/
-  "v-0de84b72": defineAsyncComponent(() => import(/* webpackChunkName: "v-0de84b72" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/genshin/index.html.vue")),
-  // path: /en/tag/lyric/
-  "v-32a80292": defineAsyncComponent(() => import(/* webpackChunkName: "v-32a80292" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/lyric/index.html.vue")),
+  // path: /en/tag/%E6%AD%8C%E8%AF%8D/
+  "v-23cd68a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-23cd68a8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/歌词/index.html.vue")),
+  // path: /en/tag/hectopascal/
+  "v-5911aff8": defineAsyncComponent(() => import(/* webpackChunkName: "v-5911aff8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/hectopascal/index.html.vue")),
+  // path: /en/tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/
+  "v-7b8ade4e": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b8ade4e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/终将成为你/index.html.vue")),
   // path: /en/tag/lycoris-recoil/
   "v-d905cefe": defineAsyncComponent(() => import(/* webpackChunkName: "v-d905cefe" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/lycoris-recoil/index.html.vue")),
-  // path: /en/tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/
-  "v-3a44387a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a44387a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/光るなら/index.html.vue")),
+  // path: /en/tag/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80/
+  "v-e0926600": defineAsyncComponent(() => import(/* webpackChunkName: "v-e0926600" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/四月是你的谎言/index.html.vue")),
   // path: /en/tag/%E5%96%9C%E5%89%A7/
   "v-346e84c5": defineAsyncComponent(() => import(/* webpackChunkName: "v-346e84c5" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/喜剧/index.html.vue")),
-  // path: /en/tag/%E5%B0%8F%E3%81%95%E3%81%AA%E6%81%8B%E3%81%AE%E3%81%86%E3%81%9F/
-  "v-2aab0a12": defineAsyncComponent(() => import(/* webpackChunkName: "v-2aab0a12" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/小さな恋のうた/index.html.vue")),
+  // path: /en/tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/
+  "v-a6217c54": defineAsyncComponent(() => import(/* webpackChunkName: "v-a6217c54" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/小小恋歌/index.html.vue")),
+  // path: /en/diary/diary.html
+  "v-3ada11cf": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ada11cf" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/diary.html.vue")),
+  // path: /en/diary/genshin.html
+  "v-04cb33b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-04cb33b0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/genshin.html.vue")),
+  // path: /en/diary/bookkeeping.html
+  "v-4c414e3e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c414e3e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/bookkeeping.html.vue")),
+  // path: /en/lyrics/hectopascal.html
+  "v-b55dae4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-b55dae4c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/hectopascal.html.vue")),
+  // path: /en/lyrics/lycoris.html
+  "v-6899cd04": defineAsyncComponent(() => import(/* webpackChunkName: "v-6899cd04" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/lycoris.html.vue")),
+  // path: /en/lyrics/rnzfgm.html
+  "v-b849f706": defineAsyncComponent(() => import(/* webpackChunkName: "v-b849f706" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/rnzfgm.html.vue")),
+  // path: /en/lyrics/xxlg.html
+  "v-7ba691f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ba691f0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xxlg.html.vue")),
+  // path: /en/lyrics/xiju.html
+  "v-138c530f": defineAsyncComponent(() => import(/* webpackChunkName: "v-138c530f" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xiju.html.vue")),
 }
