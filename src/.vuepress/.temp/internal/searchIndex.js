@@ -116,134 +116,84 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "账本",
+    "title": "日记",
     "headers": [
       {
         "level": 2,
-        "title": "2022",
-        "slug": "_2022",
-        "link": "#_2022",
+        "title": "2023-02-18",
+        "slug": "_2023-02-18",
+        "link": "#_2023-02-18",
         "children": []
-      }
-    ],
-    "path": "/diary/bookkeeping.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "日记",
-    "headers": [
+      },
+      {
+        "level": 2,
+        "title": "2023-01-26",
+        "slug": "_2023-01-26",
+        "link": "#_2023-01-26",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2023-01-19",
+        "slug": "_2023-01-19",
+        "link": "#_2023-01-19",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2023-01-14",
+        "slug": "_2023-01-14",
+        "link": "#_2023-01-14",
+        "children": []
+      },
       {
         "level": 2,
         "title": "2022-12-04",
         "slug": "_2022-12-04",
         "link": "#_2022-12-04",
-        "children": [
-          {
-            "level": 3,
-            "title": "今天买了辆电动车用来上班出行",
-            "slug": "今天买了辆电动车用来上班出行",
-            "link": "#今天买了辆电动车用来上班出行",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "发现自己的银行卡都因为太久没用而被锁定了🙃",
-            "slug": "发现自己的银行卡都因为太久没用而被锁定了",
-            "link": "#发现自己的银行卡都因为太久没用而被锁定了",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "level": 2,
         "title": "2022-11-21",
         "slug": "_2022-11-21",
         "link": "#_2022-11-21",
-        "children": [
-          {
-            "level": 3,
-            "title": "疫情，被困在家。。。",
-            "slug": "疫情-被困在家。。。",
-            "link": "#疫情-被困在家。。。",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "level": 2,
         "title": "2022-09-21",
         "slug": "_2022-09-21",
         "link": "#_2022-09-21",
-        "children": [
-          {
-            "level": 3,
-            "title": "To Work！",
-            "slug": "to-work",
-            "link": "#to-work",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "level": 2,
         "title": "2022-07-25",
         "slug": "_2022-07-25",
         "link": "#_2022-07-25",
-        "children": [
-          {
-            "level": 3,
-            "title": "千泷",
-            "slug": "千泷",
-            "link": "#千泷",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "level": 2,
         "title": "2022-07-17",
         "slug": "_2022-07-17",
         "link": "#_2022-07-17",
-        "children": [
-          {
-            "level": 3,
-            "title": "可可",
-            "slug": "可可",
-            "link": "#可可",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "level": 2,
         "title": "2022-04-28",
         "slug": "_2022-04-28",
         "link": "#_2022-04-28",
-        "children": [
-          {
-            "level": 3,
-            "title": "Liella!策划加了四个人，MD裂开了",
-            "slug": "liella-策划加了四个人-md裂开了",
-            "link": "#liella-策划加了四个人-md裂开了",
-            "children": []
-          }
-        ]
+        "children": []
       },
       {
         "level": 2,
         "title": "2022-01-12",
         "slug": "_2022-01-12",
         "link": "#_2022-01-12",
-        "children": [
-          {
-            "level": 3,
-            "title": "今天，搭建了属于自己的博客。",
-            "slug": "今天-搭建了属于自己的博客。",
-            "link": "#今天-搭建了属于自己的博客。",
-            "children": []
-          }
-        ]
+        "children": []
       }
     ],
     "path": "/diary/diary.html",
@@ -255,10 +205,39 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "2023",
+        "slug": "_2023",
+        "link": "#_2023",
+        "children": [
+          {
+            "level": 3,
+            "title": "2023-02-07",
+            "slug": "_2023-02-07",
+            "link": "#_2023-02-07",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2023-01-23",
+            "slug": "_2023-01-23",
+            "link": "#_2023-01-23",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
         "title": "2022",
         "slug": "_2022",
         "link": "#_2022",
         "children": [
+          {
+            "level": 3,
+            "title": "2022-12-08",
+            "slug": "_2022-12-08",
+            "link": "#_2022-12-08",
+            "children": []
+          },
           {
             "level": 3,
             "title": "2022-11-02",
@@ -330,13 +309,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Blog",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "回顾",
     "headers": [
       {
@@ -349,6 +321,13 @@ export const searchIndex = [
     ],
     "path": "/docs/",
     "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blog",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
     "extraFields": []
   },
   {
@@ -539,6 +518,234 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "账本",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2023",
+        "slug": "_2023",
+        "link": "#_2023",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2022",
+        "slug": "_2022",
+        "link": "#_2022",
+        "children": []
+      }
+    ],
+    "path": "/en/diary/bookkeeping.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "日记",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022-12-04",
+        "slug": "_2022-12-04",
+        "link": "#_2022-12-04",
+        "children": [
+          {
+            "level": 3,
+            "title": "今天买了辆电动车用来上班出行",
+            "slug": "今天买了辆电动车用来上班出行",
+            "link": "#今天买了辆电动车用来上班出行",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "发现自己的银行卡都因为太久没用而被锁定了🙃",
+            "slug": "发现自己的银行卡都因为太久没用而被锁定了",
+            "link": "#发现自己的银行卡都因为太久没用而被锁定了",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2022-11-21",
+        "slug": "_2022-11-21",
+        "link": "#_2022-11-21",
+        "children": [
+          {
+            "level": 3,
+            "title": "疫情，被困在家。。。",
+            "slug": "疫情-被困在家。。。",
+            "link": "#疫情-被困在家。。。",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2022-09-21",
+        "slug": "_2022-09-21",
+        "link": "#_2022-09-21",
+        "children": [
+          {
+            "level": 3,
+            "title": "To Work！",
+            "slug": "to-work",
+            "link": "#to-work",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2022-07-25",
+        "slug": "_2022-07-25",
+        "link": "#_2022-07-25",
+        "children": [
+          {
+            "level": 3,
+            "title": "千泷",
+            "slug": "千泷",
+            "link": "#千泷",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2022-07-17",
+        "slug": "_2022-07-17",
+        "link": "#_2022-07-17",
+        "children": [
+          {
+            "level": 3,
+            "title": "可可",
+            "slug": "可可",
+            "link": "#可可",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2022-04-28",
+        "slug": "_2022-04-28",
+        "link": "#_2022-04-28",
+        "children": [
+          {
+            "level": 3,
+            "title": "Liella!策划加了四个人，MD裂开了",
+            "slug": "liella-策划加了四个人-md裂开了",
+            "link": "#liella-策划加了四个人-md裂开了",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2022-01-12",
+        "slug": "_2022-01-12",
+        "link": "#_2022-01-12",
+        "children": [
+          {
+            "level": 3,
+            "title": "今天，搭建了属于自己的博客。",
+            "slug": "今天-搭建了属于自己的博客。",
+            "link": "#今天-搭建了属于自己的博客。",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/en/diary/diary.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "原神",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2022",
+        "slug": "_2022",
+        "link": "#_2022",
+        "children": [
+          {
+            "level": 3,
+            "title": "2022-12-08",
+            "slug": "_2022-12-08",
+            "link": "#_2022-12-08",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-11-02",
+            "slug": "_2022-11-02",
+            "link": "#_2022-11-02",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-09-29",
+            "slug": "_2022-09-29",
+            "link": "#_2022-09-29",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-08-26",
+            "slug": "_2022-08-26",
+            "link": "#_2022-08-26",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-08-02",
+            "slug": "_2022-08-02",
+            "link": "#_2022-08-02",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-07-13",
+            "slug": "_2022-07-13",
+            "link": "#_2022-07-13",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-07-01",
+            "slug": "_2022-07-01",
+            "link": "#_2022-07-01",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-04-19",
+            "slug": "_2022-04-19",
+            "link": "#_2022-04-19",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-02-21",
+            "slug": "_2022-02-21",
+            "link": "#_2022-02-21",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "2022-02-11",
+            "slug": "_2022-02-11",
+            "link": "#_2022-02-11",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/en/diary/genshin.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
     "title": "Disabling layout and features",
     "headers": [],
     "path": "/en/demo/disable.html",
@@ -641,6 +848,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Intro Page",
+    "headers": [],
+    "path": "/en/pages/intro.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "Slide page",
+    "headers": [],
+    "path": "/en/pages/slides.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
     "title": "Review",
     "headers": [
       {
@@ -652,20 +873,6 @@ export const searchIndex = [
       }
     ],
     "path": "/en/docs/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Intro Page",
-    "headers": [],
-    "path": "/en/pages/intro.html",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "Slide page",
-    "headers": [],
-    "path": "/en/pages/slides.html",
     "pathLocale": "/en/",
     "extraFields": []
   },
@@ -1004,23 +1211,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Guide Category",
+    "title": "日记 Category",
     "headers": [],
-    "path": "/en/category/guide/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "账本 标签",
-    "headers": [],
-    "path": "/tag/%E8%B4%A6%E6%9C%AC/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "歌词 Category",
-    "headers": [],
-    "path": "/en/category/%E6%AD%8C%E8%AF%8D/",
+    "path": "/en/category/%E6%97%A5%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1032,6 +1225,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "游戏 Category",
+    "headers": [],
+    "path": "/en/category/%E6%B8%B8%E6%88%8F/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "原神 标签",
     "headers": [],
     "path": "/tag/%E5%8E%9F%E7%A5%9E/",
@@ -1039,9 +1239,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Guide Category",
+    "headers": [],
+    "path": "/en/category/guide/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "歌词 标签",
     "headers": [],
     "path": "/tag/%E6%AD%8C%E8%AF%8D/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "歌词 Category",
+    "headers": [],
+    "path": "/en/category/%E6%AD%8C%E8%AF%8D/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1060,9 +1274,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "花の塔 标签",
+    "headers": [],
+    "path": "/tag/%E8%8A%B1%E3%81%AE%E5%A1%94/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Lycoris Recoil 标签",
     "headers": [],
     "path": "/tag/lycoris-recoil/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "光るなら 标签",
+    "headers": [],
+    "path": "/tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1081,6 +1309,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "间谍×过家家 标签",
+    "headers": [],
+    "path": "/tag/%E9%97%B4%E8%B0%8D%C3%97%E8%BF%87%E5%AE%B6%E5%AE%B6/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "小小恋歌 标签",
     "headers": [],
     "path": "/tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/",
@@ -1091,6 +1326,27 @@ export const searchIndex = [
     "title": "Tag",
     "headers": [],
     "path": "/en/tag/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "账本 Tag",
+    "headers": [],
+    "path": "/en/tag/%E8%B4%A6%E6%9C%AC/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "日记 Tag",
+    "headers": [],
+    "path": "/en/tag/%E6%97%A5%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "原神 Tag",
+    "headers": [],
+    "path": "/en/tag/%E5%8E%9F%E7%A5%9E/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1151,9 +1407,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "花の塔 Tag",
+    "headers": [],
+    "path": "/en/tag/%E8%8A%B1%E3%81%AE%E5%A1%94/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Lycoris Recoil Tag",
     "headers": [],
     "path": "/en/tag/lycoris-recoil/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "光るなら Tag",
+    "headers": [],
+    "path": "/en/tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1168,6 +1438,13 @@ export const searchIndex = [
     "title": "喜剧 Tag",
     "headers": [],
     "path": "/en/tag/%E5%96%9C%E5%89%A7/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "间谍×过家家 Tag",
+    "headers": [],
+    "path": "/en/tag/%E9%97%B4%E8%B0%8D%C3%97%E8%BF%87%E5%AE%B6%E5%AE%B6/",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -6,13 +6,13 @@ export default hopeTheme({
 	hostname: "https://Asushiny.github.io",
 
 	author: {
-		name: "東Azzz",
+		name: "東Azzz.",
 		url: "https://www.austur.top",
 	},
 
 	iconAssets: "iconfont",
-
-	logo: "/logo.ico",
+	//头像
+	logo: "/authorAvatar.png",
 	// 仓库地址-注释隐藏导航栏的github按钮和页面编辑
 	repo: "Asushiny/Asushiny.github.io",
 	// false隐藏导航栏的github按钮
@@ -62,7 +62,7 @@ export default hopeTheme({
 			displayFooter: true,
 
 			blog: {
-				description: "一个普通人",
+				description: "一个普通的打工人",
 				intro: "pages/intro.html",
 			},
 

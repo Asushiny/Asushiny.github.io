@@ -11,16 +11,14 @@ export const pagesData = {
   "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
   // path: /demo/
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
-  // path: /diary/bookkeeping.html
-  "v-2128c12a": () => import(/* webpackChunkName: "v-2128c12a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/bookkeeping.html.js").then(({ data }) => data),
   // path: /diary/diary.html
   "v-3945b48a": () => import(/* webpackChunkName: "v-3945b48a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/diary.html.js").then(({ data }) => data),
   // path: /diary/genshin.html
   "v-dcafa1d8": () => import(/* webpackChunkName: "v-dcafa1d8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/diary/genshin.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /docs/
   "v-147825fb": () => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /lyrics/hectopascal.html
   "v-6d58136e": () => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.js").then(({ data }) => data),
   // path: /lyrics/lycoris.html
@@ -35,6 +33,12 @@ export const pagesData = {
   "v-11b603de": () => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.js").then(({ data }) => data),
   // path: /pages/slides.html
   "v-2a1f0993": () => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.js").then(({ data }) => data),
+  // path: /en/diary/bookkeeping.html
+  "v-4c414e3e": () => import(/* webpackChunkName: "v-4c414e3e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/bookkeeping.html.js").then(({ data }) => data),
+  // path: /en/diary/diary.html
+  "v-3ada11cf": () => import(/* webpackChunkName: "v-3ada11cf" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/diary.html.js").then(({ data }) => data),
+  // path: /en/diary/genshin.html
+  "v-04cb33b0": () => import(/* webpackChunkName: "v-04cb33b0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/genshin.html.js").then(({ data }) => data),
   // path: /en/demo/disable.html
   "v-70eda030": () => import(/* webpackChunkName: "v-70eda030" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/demo/disable.html.js").then(({ data }) => data),
   // path: /en/demo/encrypt.html
@@ -45,12 +49,22 @@ export const pagesData = {
   "v-0e4acecb": () => import(/* webpackChunkName: "v-0e4acecb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/demo/page.html.js").then(({ data }) => data),
   // path: /en/demo/
   "v-395cd082": () => import(/* webpackChunkName: "v-395cd082" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/demo/index.html.js").then(({ data }) => data),
-  // path: /en/docs/
-  "v-39540332": () => import(/* webpackChunkName: "v-39540332" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/docs/index.html.js").then(({ data }) => data),
   // path: /en/pages/intro.html
   "v-4ea1ea25": () => import(/* webpackChunkName: "v-4ea1ea25" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/pages/intro.html.js").then(({ data }) => data),
   // path: /en/pages/slides.html
   "v-7b80c002": () => import(/* webpackChunkName: "v-7b80c002" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/pages/slides.html.js").then(({ data }) => data),
+  // path: /en/docs/
+  "v-39540332": () => import(/* webpackChunkName: "v-39540332" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/docs/index.html.js").then(({ data }) => data),
+  // path: /en/lyrics/hectopascal.html
+  "v-b55dae4c": () => import(/* webpackChunkName: "v-b55dae4c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/hectopascal.html.js").then(({ data }) => data),
+  // path: /en/lyrics/lycoris.html
+  "v-6899cd04": () => import(/* webpackChunkName: "v-6899cd04" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/lycoris.html.js").then(({ data }) => data),
+  // path: /en/lyrics/rnzfgm.html
+  "v-b849f706": () => import(/* webpackChunkName: "v-b849f706" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/rnzfgm.html.js").then(({ data }) => data),
+  // path: /en/lyrics/xiju.html
+  "v-138c530f": () => import(/* webpackChunkName: "v-138c530f" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xiju.html.js").then(({ data }) => data),
+  // path: /en/lyrics/xxlg.html
+  "v-7ba691f0": () => import(/* webpackChunkName: "v-7ba691f0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xxlg.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
@@ -97,32 +111,46 @@ export const pagesData = {
   "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
   // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
   "v-7b167472": () => import(/* webpackChunkName: "v-7b167472" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/使用指南/index.html.js").then(({ data }) => data),
-  // path: /en/category/guide/
-  "v-0fe52c37": () => import(/* webpackChunkName: "v-0fe52c37" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/guide/index.html.js").then(({ data }) => data),
-  // path: /tag/%E8%B4%A6%E6%9C%AC/
-  "v-6b813b8e": () => import(/* webpackChunkName: "v-6b813b8e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/账本/index.html.js").then(({ data }) => data),
-  // path: /en/category/%E6%AD%8C%E8%AF%8D/
-  "v-141f136c": () => import(/* webpackChunkName: "v-141f136c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/歌词/index.html.js").then(({ data }) => data),
+  // path: /en/category/%E6%97%A5%E8%AE%B0/
+  "v-60fe06d6": () => import(/* webpackChunkName: "v-60fe06d6" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/日记/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%97%A5%E8%AE%B0/
   "v-e09e86ea": () => import(/* webpackChunkName: "v-e09e86ea" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/日记/index.html.js").then(({ data }) => data),
+  // path: /en/category/%E6%B8%B8%E6%88%8F/
+  "v-7ec01746": () => import(/* webpackChunkName: "v-7ec01746" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/游戏/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%8E%9F%E7%A5%9E/
   "v-7c2c6aa7": () => import(/* webpackChunkName: "v-7c2c6aa7" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/原神/index.html.js").then(({ data }) => data),
+  // path: /en/category/guide/
+  "v-0fe52c37": () => import(/* webpackChunkName: "v-0fe52c37" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/guide/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%AD%8C%E8%AF%8D/
   "v-93bf9380": () => import(/* webpackChunkName: "v-93bf9380" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/歌词/index.html.js").then(({ data }) => data),
+  // path: /en/category/%E6%AD%8C%E8%AF%8D/
+  "v-141f136c": () => import(/* webpackChunkName: "v-141f136c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/歌词/index.html.js").then(({ data }) => data),
   // path: /tag/hectopascal/
   "v-7bfa3bf0": () => import(/* webpackChunkName: "v-7bfa3bf0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/hectopascal/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/
   "v-2959f73a": () => import(/* webpackChunkName: "v-2959f73a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/终将成为你/index.html.js").then(({ data }) => data),
+  // path: /tag/%E8%8A%B1%E3%81%AE%E5%A1%94/
+  "v-525acb46": () => import(/* webpackChunkName: "v-525acb46" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/花の塔/index.html.js").then(({ data }) => data),
   // path: /tag/lycoris-recoil/
   "v-fdaf25d6": () => import(/* webpackChunkName: "v-fdaf25d6" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/lycoris-recoil/index.html.js").then(({ data }) => data),
+  // path: /tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/
+  "v-cd825d52": () => import(/* webpackChunkName: "v-cd825d52" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/光るなら/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80/
   "v-cbfbfa28": () => import(/* webpackChunkName: "v-cbfbfa28" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/四月是你的谎言/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%96%9C%E5%89%A7/
   "v-0715214e": () => import(/* webpackChunkName: "v-0715214e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/喜剧/index.html.js").then(({ data }) => data),
+  // path: /tag/%E9%97%B4%E8%B0%8D%C3%97%E8%BF%87%E5%AE%B6%E5%AE%B6/
+  "v-6edf63fe": () => import(/* webpackChunkName: "v-6edf63fe" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/间谍×过家家/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/
   "v-63502f6a": () => import(/* webpackChunkName: "v-63502f6a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/小小恋歌/index.html.js").then(({ data }) => data),
   // path: /en/tag/
   "v-075c6c62": () => import(/* webpackChunkName: "v-075c6c62" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/index.html.js").then(({ data }) => data),
+  // path: /en/tag/%E8%B4%A6%E6%9C%AC/
+  "v-b90b5e0c": () => import(/* webpackChunkName: "v-b90b5e0c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/账本/index.html.js").then(({ data }) => data),
+  // path: /en/tag/%E6%97%A5%E8%AE%B0/
+  "v-70ac5c12": () => import(/* webpackChunkName: "v-70ac5c12" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/日记/index.html.js").then(({ data }) => data),
+  // path: /en/tag/%E5%8E%9F%E7%A5%9E/
+  "v-97b4ffda": () => import(/* webpackChunkName: "v-97b4ffda" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/原神/index.html.js").then(({ data }) => data),
   // path: /en/tag/disable/
   "v-c6edb6ae": () => import(/* webpackChunkName: "v-c6edb6ae" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/disable/index.html.js").then(({ data }) => data),
   // path: /en/tag/encryption/
@@ -139,28 +167,18 @@ export const pagesData = {
   "v-5911aff8": () => import(/* webpackChunkName: "v-5911aff8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/hectopascal/index.html.js").then(({ data }) => data),
   // path: /en/tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/
   "v-7b8ade4e": () => import(/* webpackChunkName: "v-7b8ade4e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/终将成为你/index.html.js").then(({ data }) => data),
+  // path: /en/tag/%E8%8A%B1%E3%81%AE%E5%A1%94/
+  "v-c786431e": () => import(/* webpackChunkName: "v-c786431e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/花の塔/index.html.js").then(({ data }) => data),
   // path: /en/tag/lycoris-recoil/
   "v-d905cefe": () => import(/* webpackChunkName: "v-d905cefe" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/lycoris-recoil/index.html.js").then(({ data }) => data),
+  // path: /en/tag/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89/
+  "v-3a44387a": () => import(/* webpackChunkName: "v-3a44387a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/光るなら/index.html.js").then(({ data }) => data),
   // path: /en/tag/%E5%9B%9B%E6%9C%88%E6%98%AF%E4%BD%A0%E7%9A%84%E8%B0%8E%E8%A8%80/
   "v-e0926600": () => import(/* webpackChunkName: "v-e0926600" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/四月是你的谎言/index.html.js").then(({ data }) => data),
   // path: /en/tag/%E5%96%9C%E5%89%A7/
   "v-346e84c5": () => import(/* webpackChunkName: "v-346e84c5" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/喜剧/index.html.js").then(({ data }) => data),
+  // path: /en/tag/%E9%97%B4%E8%B0%8D%C3%97%E8%BF%87%E5%AE%B6%E5%AE%B6/
+  "v-cf96d3d6": () => import(/* webpackChunkName: "v-cf96d3d6" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/间谍×过家家/index.html.js").then(({ data }) => data),
   // path: /en/tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/
   "v-a6217c54": () => import(/* webpackChunkName: "v-a6217c54" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/tag/小小恋歌/index.html.js").then(({ data }) => data),
-  // path: /en/diary/diary.html
-  "v-3ada11cf": () => import(/* webpackChunkName: "v-3ada11cf" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/diary.html.js").then(({ data }) => data),
-  // path: /en/diary/genshin.html
-  "v-04cb33b0": () => import(/* webpackChunkName: "v-04cb33b0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/genshin.html.js").then(({ data }) => data),
-  // path: /en/diary/bookkeeping.html
-  "v-4c414e3e": () => import(/* webpackChunkName: "v-4c414e3e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/diary/bookkeeping.html.js").then(({ data }) => data),
-  // path: /en/lyrics/hectopascal.html
-  "v-b55dae4c": () => import(/* webpackChunkName: "v-b55dae4c" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/hectopascal.html.js").then(({ data }) => data),
-  // path: /en/lyrics/lycoris.html
-  "v-6899cd04": () => import(/* webpackChunkName: "v-6899cd04" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/lycoris.html.js").then(({ data }) => data),
-  // path: /en/lyrics/rnzfgm.html
-  "v-b849f706": () => import(/* webpackChunkName: "v-b849f706" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/rnzfgm.html.js").then(({ data }) => data),
-  // path: /en/lyrics/xxlg.html
-  "v-7ba691f0": () => import(/* webpackChunkName: "v-7ba691f0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xxlg.html.js").then(({ data }) => data),
-  // path: /en/lyrics/xiju.html
-  "v-138c530f": () => import(/* webpackChunkName: "v-138c530f" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/lyrics/xiju.html.js").then(({ data }) => data),
 }

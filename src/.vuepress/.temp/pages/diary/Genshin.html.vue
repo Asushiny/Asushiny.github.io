@@ -1,4 +1,14 @@
 <template><div><h1 id="原神" tabindex="-1"><a class="header-anchor" href="#原神" aria-hidden="true">#</a> 原神</h1>
+<h2 id="_2023" tabindex="-1"><a class="header-anchor" href="#_2023" aria-hidden="true">#</a> 2023</h2>
+<h3 id="_2023-02-07" tabindex="-1"><a class="header-anchor" href="#_2023-02-07" aria-hidden="true">#</a> 2023-02-07</h3>
+<ul>
+<li>买了个神里绫华的皮肤</li>
+<li>继承V3.3的大保底出了夜兰，结果武器歪了护膜，剩下的原石打算抽胡桃还是给歪了迪卢克，花光了所有的创世结晶才抽到了胡桃。</li>
+</ul>
+<h3 id="_2023-01-23" tabindex="-1"><a class="header-anchor" href="#_2023-01-23" aria-hidden="true">#</a> 2023-01-23</h3>
+<ul>
+<li>攒原石等夜兰和胡桃</li>
+</ul>
 <h2 id="_2022" tabindex="-1"><a class="header-anchor" href="#_2022" aria-hidden="true">#</a> 2022</h2>
 <h3 id="_2022-12-08" tabindex="-1"><a class="header-anchor" href="#_2022-12-08" aria-hidden="true">#</a> 2022-12-08</h3>
 <ul>
