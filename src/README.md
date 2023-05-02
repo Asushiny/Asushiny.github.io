@@ -7,7 +7,7 @@ bgImage: /bg.jpg
 #heroImage: /logo.svg
 heroText: Austur
 heroFullScreen: true
-tagline: 没有BUG的代码是不完美的！
+tagline: 旭光之后,皆是繁星
 projects:
   - icon: project
     name: 项目名称
@@ -23,16 +23,6 @@ projects:
     name: 书籍名称
     desc: 书籍详细描述
     link: https://你的书籍链接
-
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
-
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
 
   - icon: /logo.ico
     name: 自定义项目

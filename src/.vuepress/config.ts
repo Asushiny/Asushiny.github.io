@@ -9,12 +9,12 @@ export default defineUserConfig({
 		"/": {
 			lang: "zh-CN",
 			title: "Austur博客",
-			description: "東Azzz的博客",
+			description: "Austur的博客",
 		},
 		"/en/": {
 			lang: "en-US",
 			title: "Austur Blog",
-			description: "A blog for 東Azzz",
+			description: "A blog for Austur",
 		},
 	},
 

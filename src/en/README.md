@@ -7,7 +7,7 @@ bgImage: /bg.jpg
 #heroImage: /logo.svg
 heroText: Austur
 heroFullScreen: true
-tagline: Yesterday has passed, tomorrow is still on the road, cherish the present.
+tagline: Not tempted by praise, not afraid of defamation.
 projects:
   - icon: project
     name: project name
@@ -23,16 +23,6 @@ projects:
     name: book name
     desc: Detailed description of the book
     link: https://link.to.your.book
-
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
-
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
 
   - icon: /logo.ico
     name: custom item

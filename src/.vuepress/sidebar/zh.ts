@@ -1,11 +1,10 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-	"/diary/": [
+	"/notes/": [
 		{
-			text: "记事本",
+			text: "学习笔记",
 			icon: "note",
-			// prefix: "diary/",
 			children: "structure",
 		},
 	],
@@ -16,16 +15,16 @@ export const zhSidebar = sidebar({
 			children: "structure",
 		},
 	],
-	"/": [
-		"",
-		{
-			text: "如何使用",
-			icon: "creative",
-			prefix: "demo/",
-			link: "demo/",
-			children: "structure",
-		},
-		"pages/intro",
-		"pages/slides",
-	],
+	// "/": [
+	// 	"",
+	// 	{
+	// 		text: "如何使用",
+	// 		icon: "creative",
+	// 		prefix: "demo/",
+	// 		link: "demo/",
+	// 		children: "structure",
+	// 	},
+	// 	"pages/intro",
+	// 	"pages/slides",
+	// ],
 });

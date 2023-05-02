@@ -57,7 +57,7 @@ export default hopeTheme({
 			// sidebar
 			sidebar: zhSidebar,
 
-			footer: "你制定的计划是.txt还是.exe?",
+			footer: "不诱于誉，不恐于诽",
 
 			displayFooter: true,
 
@@ -79,7 +79,7 @@ export default hopeTheme({
 			// sidebar
 			sidebar: enSidebar,
 
-			footer: "Is your plan .txt or .exe?",
+			footer: "Not tempted by praise, not afraid of defamation",
 
 			displayFooter: true,
 
@@ -94,12 +94,11 @@ export default hopeTheme({
 		},
 	},
 
+	//设置密码
 	encrypt: {
 		config: {
-			"/demo/encrypt.html": ["1234"],
-			"/en/demo/encrypt.html": ["1234"],
-			"/diary/": ["azzz"],
-			"/en/diary/": ["azzz"],
+			// "/demo/encrypt.html": ["1234"],
+			// "/en/demo/encrypt.html": ["1234"],
 		},
 	},
 

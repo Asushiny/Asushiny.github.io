@@ -1,1 +1,1 @@
-export const sidebarData = {"/en/diary/":["genshin.md","diary.md","bookkeeping.md"],"/en/lyrics/":["rnzfgm.md","lycoris.md","xiju.md","xxlg.md","hectopascal.md"],"/en/demo/":["page.md","markdown.md","disable.md","encrypt.md"],"/diary/":["genshin.md","diary.md"],"/lyrics/":["rnzfgm.md","lycoris.md","xiju.md","xxlg.md","hectopascal.md"],"/demo/":["page.md","markdown.md","disable.md","encrypt.md"]};
+export const sidebarData = {"/notes/":["politics.md","math.md"],"/lyrics/":["rnzfgm.md","lycoris.md","xiju.md","xxlg.md","hectopascal.md"]};
