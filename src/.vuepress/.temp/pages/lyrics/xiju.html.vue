@@ -1,4 +1,4 @@
-<template><div><p>《喜剧》是日本男歌手星野源作词、作曲、演唱的一首歌曲。于2022年4月8日发行。该曲也是日本电视动画《间谍×过家家》的片尾曲。</p>
+<template><div><p><code v-pre>more</code> 《喜剧》是日本男歌手星野源作词、作曲、演唱的一首歌曲。于2022年4月8日发行。该曲也是日本电视动画《间谍×过家家》的片尾曲。</p>
 <!-- more -->
 <h1 id="喜剧" tabindex="-1"><a class="header-anchor" href="#喜剧" aria-hidden="true">#</a> 喜剧</h1>
 <h2 id="part-1" tabindex="-1"><a class="header-anchor" href="#part-1" aria-hidden="true">#</a> Part 1</h2>

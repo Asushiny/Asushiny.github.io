@@ -1,4 +1,4 @@
-<template><div><p>《小小恋歌》（小さな恋のうた）是2001年日本乐团MONGOL800的一首代表性歌曲，收录于第2张录音室专辑《MESSAGE》中。2007年被用作由山下智久和长泽雅美主演的人气富士月九剧《求婚大作战》的插曲而再一次掀起热潮。</p>
+<template><div><p><code v-pre>more</code> 《小小恋歌》（小さな恋のうた）是2001年日本乐团MONGOL800的一首代表性歌曲，收录于第2张录音室专辑《MESSAGE》中。2007年被用作由山下智久和长泽雅美主演的人气富士月九剧《求婚大作战》的插曲而再一次掀起热潮。</p>
 <!-- more -->
 <h1 id="小小恋歌" tabindex="-1"><a class="header-anchor" href="#小小恋歌" aria-hidden="true">#</a> 小小恋歌</h1>
 <h2 id="part-1" tabindex="-1"><a class="header-anchor" href="#part-1" aria-hidden="true">#</a> Part 1</h2>

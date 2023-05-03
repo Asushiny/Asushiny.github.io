@@ -5,12 +5,12 @@ export const zhNavbar = navbar([
 	{
 		text: "笔记",
 		icon: "note",
-		link: "/notes/politics",
+		link: "/notes/政治",
 	},
 	{
 		text: "歌词",
 		icon: "blog",
-		link: "/lyrics/xiju",
+		link: "/lyrics/xxlg",
 	},
 	{
 		text: "时间轴",

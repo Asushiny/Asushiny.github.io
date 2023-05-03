@@ -5,7 +5,23 @@ export const zhSidebar = sidebar({
 		{
 			text: "学习笔记",
 			icon: "note",
-			children: "structure",
+			// children: "structure",
+			children: [
+				{
+					text: "政治",
+					icon: "repo",
+					prefix: "政治/",
+					collapsible: true,
+					children: "structure",
+				},
+				{
+					text: "数学",
+					icon: "function",
+					prefix: "数学/",
+					collapsible: true,
+					children: "structure",
+				},
+			],
 		},
 	],
 	"/lyrics/": [

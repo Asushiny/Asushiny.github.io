@@ -1,4 +1,4 @@
-<template><div><p>电视动画片《终将成为你》改编自仲谷鳰创作的同名漫画，于2018年4月宣布了动画化的消息。该片由TROYCA负责制作，于2018年10月5日至12月28日播出。全13集。<br>
+<template><div><p><code v-pre>more</code> 电视动画片《终将成为你》改编自仲谷鳰创作的同名漫画，于2018年4月宣布了动画化的消息。该片由TROYCA负责制作，于2018年10月5日至12月28日播出。全13集。<br>
 Hectopascal为该动漫的ED</p>
 <!-- more -->
 <h1 id="hectopascal" tabindex="-1"><a class="header-anchor" href="#hectopascal" aria-hidden="true">#</a> Hectopascal</h1>

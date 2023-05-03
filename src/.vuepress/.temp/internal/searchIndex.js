@@ -29,32 +29,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "数学",
+    "title": "个人介绍",
     "headers": [],
-    "path": "/notes/math.html",
+    "path": "/pages/intro.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "政治",
-    "headers": [
-      {
-        "level": 2,
-        "title": "马克思主义哲学原理",
-        "slug": "马克思主义哲学原理",
-        "link": "#马克思主义哲学原理",
-        "children": [
-          {
-            "level": 3,
-            "title": "第一章 马克思主义哲学是科学的世界观和方法论",
-            "slug": "第一章-马克思主义哲学是科学的世界观和方法论",
-            "link": "#第一章-马克思主义哲学是科学的世界观和方法论",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/notes/politics.html",
+    "title": "幻灯片页",
+    "headers": [],
+    "path": "/pages/slides.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -232,16 +216,62 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "个人介绍",
-    "headers": [],
-    "path": "/pages/intro.html",
+    "title": "第一章 马克思主义哲学是科学的世界观和方法论",
+    "headers": [
+      {
+        "level": 2,
+        "title": "第一节 哲学及其基本问题",
+        "slug": "第一节-哲学及其基本问题",
+        "link": "#第一节-哲学及其基本问题",
+        "children": [
+          {
+            "level": 3,
+            "title": "一、哲学与世界观、方法论",
+            "slug": "一、哲学与世界观、方法论",
+            "link": "#一、哲学与世界观、方法论",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/notes/%E6%94%BF%E6%B2%BB/1.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "幻灯片页",
-    "headers": [],
-    "path": "/pages/slides.html",
+    "title": "目录-政治",
+    "headers": [
+      {
+        "level": 2,
+        "title": "马克思主义哲学原理",
+        "slug": "马克思主义哲学原理",
+        "link": "#马克思主义哲学原理",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "毛泽东思想和中国特色社会主义理论体系概论",
+        "slug": "毛泽东思想和中国特色社会主义理论体系概论",
+        "link": "#毛泽东思想和中国特色社会主义理论体系概论",
+        "children": []
+      }
+    ],
+    "path": "/notes/%E6%94%BF%E6%B2%BB/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "目录-数学",
+    "headers": [
+      {
+        "level": 2,
+        "title": "极限",
+        "slug": "极限",
+        "link": "#极限",
+        "children": []
+      }
+    ],
+    "path": "/notes/%E6%95%B0%E5%AD%A6/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -302,16 +332,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "笔记 分类",
+    "title": "歌词 分类",
     "headers": [],
-    "path": "/category/%E7%AC%94%E8%AE%B0/",
+    "path": "/category/%E6%AD%8C%E8%AF%8D/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "笔记 标签",
+    "title": "歌词 标签",
     "headers": [],
-    "path": "/tag/%E7%AC%94%E8%AE%B0/",
+    "path": "/tag/%E6%AD%8C%E8%AF%8D/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -351,37 +381,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "歌词 分类",
+    "title": "笔记 分类",
     "headers": [],
-    "path": "/category/%E6%AD%8C%E8%AF%8D/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "数学笔记 标签",
-    "headers": [],
-    "path": "/tag/%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Category",
-    "headers": [],
-    "path": "/en/category/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "政治笔记 标签",
-    "headers": [],
-    "path": "/tag/%E6%94%BF%E6%B2%BB%E7%AC%94%E8%AE%B0/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "歌词 标签",
-    "headers": [],
-    "path": "/tag/%E6%AD%8C%E8%AF%8D/",
+    "path": "/category/%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -389,6 +391,13 @@ export const searchIndex = [
     "title": "Hectopascal 标签",
     "headers": [],
     "path": "/tag/hectopascal/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Category",
+    "headers": [],
+    "path": "/en/category/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -445,6 +454,27 @@ export const searchIndex = [
     "title": "小小恋歌 标签",
     "headers": [],
     "path": "/tag/%E5%B0%8F%E5%B0%8F%E6%81%8B%E6%AD%8C/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "笔记 标签",
+    "headers": [],
+    "path": "/tag/%E7%AC%94%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "政治笔记 标签",
+    "headers": [],
+    "path": "/tag/%E6%94%BF%E6%B2%BB%E7%AC%94%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "数学笔记 标签",
+    "headers": [],
+    "path": "/tag/%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },

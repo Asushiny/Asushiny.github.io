@@ -1,4 +1,4 @@
-<template><div><p>《若能绽放光芒》（光るなら）是由Goose house乐队演唱的歌曲，作为日本动漫《四月是你的谎言》中的第一首片头曲，歌曲爽快的曲风令人炫目，以至于很多观众就是因为这首歌才开始接触到作品。该歌由Goose house为动画《四月是你的谎言》量身打造。</p>
+<template><div><p><code v-pre>more</code> 《若能绽放光芒》（光るなら）是由Goose house乐队演唱的歌曲，作为日本动漫《四月是你的谎言》中的第一首片头曲，歌曲爽快的曲风令人炫目，以至于很多观众就是因为这首歌才开始接触到作品。该歌由Goose house为动画《四月是你的谎言》量身打造。</p>
 <!-- more -->
 <h1 id="光るなら-若能绽放光芒" tabindex="-1"><a class="header-anchor" href="#光るなら-若能绽放光芒" aria-hidden="true">#</a> 光るなら(若能绽放光芒)</h1>
 <h2 id="part-1" tabindex="-1"><a class="header-anchor" href="#part-1" aria-hidden="true">#</a> Part 1</h2>

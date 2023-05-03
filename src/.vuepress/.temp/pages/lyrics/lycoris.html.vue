@@ -1,4 +1,4 @@
-<template><div><p>《花之塔》（花の塔）是さユり作曲、作词、演唱的一首歌曲。该曲于2022年7月3日公开发布，时长为4分35秒，是电视动画片《Lycoris Recoil》片尾曲。后收录于2022年8月10日发行的专辑《酸欠少女》中</p>
+<template><div><p><code v-pre>more</code> 《花之塔》（花の塔）是さユり作曲、作词、演唱的一首歌曲。该曲于2022年7月3日公开发布，时长为4分35秒，是电视动画片《Lycoris Recoil》片尾曲。后收录于2022年8月10日发行的专辑《酸欠少女》中</p>
 <!-- more -->
 <h1 id="花の塔" tabindex="-1"><a class="header-anchor" href="#花の塔" aria-hidden="true">#</a> 花の塔</h1>
 <h2 id="part-1" tabindex="-1"><a class="header-anchor" href="#part-1" aria-hidden="true">#</a> Part 1</h2>
