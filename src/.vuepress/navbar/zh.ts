@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
 	{
 		text: "笔记",
 		icon: "note",
-		link: "/notes/政治",
+		link: "/notes/英语/1",
 	},
 	{
 		text: "歌词",

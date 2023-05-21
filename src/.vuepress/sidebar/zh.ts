@@ -8,15 +8,13 @@ export const zhSidebar = sidebar({
 			// children: "structure",
 			children: [
 				{
-					text: "政治",
-					icon: "repo",
-					prefix: "政治/",
+					text: "英语",
+					prefix: "英语/",
 					collapsible: true,
 					children: "structure",
 				},
 				{
 					text: "数学",
-					icon: "function",
 					prefix: "数学/",
 					collapsible: true,
 					children: "structure",

@@ -22,27 +22,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Blog",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
-    "title": "个人介绍",
-    "headers": [],
-    "path": "/pages/intro.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "幻灯片页",
-    "headers": [],
-    "path": "/pages/slides.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Hectopascal",
     "headers": [
       {
@@ -216,62 +195,67 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "第一章 马克思主义哲学是科学的世界观和方法论",
-    "headers": [
-      {
-        "level": 2,
-        "title": "第一节 哲学及其基本问题",
-        "slug": "第一节-哲学及其基本问题",
-        "link": "#第一节-哲学及其基本问题",
-        "children": [
-          {
-            "level": 3,
-            "title": "一、哲学与世界观、方法论",
-            "slug": "一、哲学与世界观、方法论",
-            "link": "#一、哲学与世界观、方法论",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/notes/%E6%94%BF%E6%B2%BB/1.html",
+    "title": "Blog",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "个人介绍",
+    "headers": [],
+    "path": "/pages/intro.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "目录-政治",
+    "title": "幻灯片页",
+    "headers": [],
+    "path": "/pages/slides.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "一元函数微分学",
     "headers": [
       {
         "level": 2,
-        "title": "马克思主义哲学原理",
-        "slug": "马克思主义哲学原理",
-        "link": "#马克思主义哲学原理",
+        "title": "基本初等函数的导数公式",
+        "slug": "基本初等函数的导数公式",
+        "link": "#基本初等函数的导数公式",
+        "children": []
+      }
+    ],
+    "path": "/notes/%E6%95%B0%E5%AD%A6/1.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "名词",
+    "headers": [],
+    "path": "/notes/%E8%8B%B1%E8%AF%AD/1.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "冠词",
+    "headers": [
+      {
+        "level": 2,
+        "title": "不定冠词",
+        "slug": "不定冠词",
+        "link": "#不定冠词",
         "children": []
       },
       {
         "level": 2,
-        "title": "毛泽东思想和中国特色社会主义理论体系概论",
-        "slug": "毛泽东思想和中国特色社会主义理论体系概论",
-        "link": "#毛泽东思想和中国特色社会主义理论体系概论",
+        "title": "定冠词",
+        "slug": "定冠词",
+        "link": "#定冠词",
         "children": []
       }
     ],
-    "path": "/notes/%E6%94%BF%E6%B2%BB/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "目录-数学",
-    "headers": [
-      {
-        "level": 2,
-        "title": "极限",
-        "slug": "极限",
-        "link": "#极限",
-        "children": []
-      }
-    ],
-    "path": "/notes/%E6%95%B0%E5%AD%A6/",
+    "path": "/notes/%E8%8B%B1%E8%AF%AD/2.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -465,16 +449,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "政治笔记 标签",
+    "title": "数学笔记 标签",
     "headers": [],
-    "path": "/tag/%E6%94%BF%E6%B2%BB%E7%AC%94%E8%AE%B0/",
+    "path": "/tag/%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "数学笔记 标签",
+    "title": "英语笔记 标签",
     "headers": [],
-    "path": "/tag/%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/",
+    "path": "/tag/%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
