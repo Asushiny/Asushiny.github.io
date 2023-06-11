@@ -3,6 +3,8 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /docs/
   "v-147825fb": () => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /lyrics/hectopascal.html
   "v-6d58136e": () => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.js").then(({ data }) => data),
   // path: /lyrics/lycoris.html
@@ -13,12 +15,12 @@ export const pagesData = {
   "v-87e1320a": () => import(/* webpackChunkName: "v-87e1320a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xiju.html.js").then(({ data }) => data),
   // path: /lyrics/xxlg.html
   "v-2429a5dc": () => import(/* webpackChunkName: "v-2429a5dc" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xxlg.html.js").then(({ data }) => data),
-  // path: /en/
-  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /pages/intro.html
   "v-11b603de": () => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.js").then(({ data }) => data),
   // path: /pages/slides.html
   "v-2a1f0993": () => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.js").then(({ data }) => data),
+  // path: /notes/%E6%94%BF%E6%B2%BB/1.html
+  "v-cc307e6e": () => import(/* webpackChunkName: "v-cc307e6e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/政治/1.html.js").then(({ data }) => data),
   // path: /notes/%E6%95%B0%E5%AD%A6/1.html
   "v-a2b9c79e": () => import(/* webpackChunkName: "v-a2b9c79e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/数学/1.html.js").then(({ data }) => data),
   // path: /notes/%E8%8B%B1%E8%AF%AD/1.html
@@ -79,6 +81,8 @@ export const pagesData = {
   "v-63502f6a": () => import(/* webpackChunkName: "v-63502f6a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/小小恋歌/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%AC%94%E8%AE%B0/
   "v-7329824f": () => import(/* webpackChunkName: "v-7329824f" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/笔记/index.html.js").then(({ data }) => data),
+  // path: /tag/%E6%94%BF%E6%B2%BB%E7%AC%94%E8%AE%B0/
+  "v-08bb04c8": () => import(/* webpackChunkName: "v-08bb04c8" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/政治笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%95%B0%E5%AD%A6%E7%AC%94%E8%AE%B0/
   "v-55808430": () => import(/* webpackChunkName: "v-55808430" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/数学笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E8%8B%B1%E8%AF%AD%E7%AC%94%E8%AE%B0/

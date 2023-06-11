@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import searchPlugin from '@vuepress/plugin-search'
+import { componentsPlugin } from "vuepress-plugin-components";
 
 export default defineUserConfig({
 	base: "/",
@@ -32,6 +33,11 @@ export default defineUserConfig({
 					placeholder: 'Search',
 				},
 			},
+		}),
+		componentsPlugin({
+			components: [
+				"PDF",
+			],
 		}),
 	],
 });

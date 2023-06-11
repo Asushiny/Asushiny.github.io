@@ -19,6 +19,12 @@ export const zhSidebar = sidebar({
 					collapsible: true,
 					children: "structure",
 				},
+				{
+					text: "政治",
+					prefix: "政治/",
+					collapsible: true,
+					children: "structure",
+				},
 			],
 		},
 	],

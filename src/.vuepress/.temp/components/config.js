@@ -1,24 +1,17 @@
 import { defineClientConfig } from "@vuepress/client";
-import { h } from "vue";
 
-import { useStyleTag } from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-components/lib/client/vueuse.js";
-import Badge from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
-import BackToTop from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-components/lib/client/components/BackToTop.js";
+import PDF from "D:/练习/Blog/Asushiny.github.io/node_modules/vuepress-plugin-components/lib/client/components/PDF.js";
 
 
 export default defineClientConfig({
   enhance: ({ app }) => {
-    app.component("Badge", Badge);
-    app.component("FontIcon", FontIcon);
+    app.component("PDF", PDF);
     
   },
   setup: () => {
-    useStyleTag(`@import url("//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css");`, { id: "icon-assets" });
     
   },
   rootComponents: [
-    () => h(BackToTop, { threshold: 300 }),
     
   ],
 });

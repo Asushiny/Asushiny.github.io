@@ -22,6 +22,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Blog",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
     "title": "Hectopascal",
     "headers": [
       {
@@ -195,13 +202,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Blog",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
-    "extraFields": []
-  },
-  {
     "title": "个人介绍",
     "headers": [],
     "path": "/pages/intro.html",
@@ -216,16 +216,15 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "一元函数微分学",
-    "headers": [
-      {
-        "level": 2,
-        "title": "基本初等函数的导数公式",
-        "slug": "基本初等函数的导数公式",
-        "link": "#基本初等函数的导数公式",
-        "children": []
-      }
-    ],
+    "title": "政治笔记",
+    "headers": [],
+    "path": "/notes/%E6%94%BF%E6%B2%BB/1.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "数学笔记",
+    "headers": [],
     "path": "/notes/%E6%95%B0%E5%AD%A6/1.html",
     "pathLocale": "/",
     "extraFields": []
@@ -238,23 +237,8 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "冠词",
-    "headers": [
-      {
-        "level": 2,
-        "title": "不定冠词",
-        "slug": "不定冠词",
-        "link": "#不定冠词",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "定冠词",
-        "slug": "定冠词",
-        "link": "#定冠词",
-        "children": []
-      }
-    ],
+    "title": "英语笔记",
+    "headers": [],
     "path": "/notes/%E8%8B%B1%E8%AF%AD/2.html",
     "pathLocale": "/",
     "extraFields": []
@@ -445,6 +429,13 @@ export const searchIndex = [
     "title": "笔记 标签",
     "headers": [],
     "path": "/tag/%E7%AC%94%E8%AE%B0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "政治笔记 标签",
+    "headers": [],
+    "path": "/tag/%E6%94%BF%E6%B2%BB%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
