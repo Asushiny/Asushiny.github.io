@@ -8,14 +8,14 @@ export const zhSidebar = sidebar({
 			// children: "structure",
 			children: [
 				{
-					text: "英语",
-					prefix: "英语/",
+					text: "数学",
+					prefix: "数学/",
 					collapsible: true,
 					children: "structure",
 				},
 				{
-					text: "数学",
-					prefix: "数学/",
+					text: "英语",
+					prefix: "英语/",
 					collapsible: true,
 					children: "structure",
 				},

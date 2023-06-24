@@ -62,7 +62,7 @@ export default hopeTheme({
 			displayFooter: true,
 
 			blog: {
-				description: "一个普通的打工人",
+				description: "一名普通的司辰、旅行者",
 				intro: "pages/intro.html",
 			},
 

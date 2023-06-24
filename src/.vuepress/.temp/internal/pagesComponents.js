@@ -27,8 +27,6 @@ export const pagesComponents = {
   "v-a2b9c79e": defineAsyncComponent(() => import(/* webpackChunkName: "v-a2b9c79e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/数学/1.html.vue")),
   // path: /notes/%E8%8B%B1%E8%AF%AD/1.html
   "v-6ffb5ed2": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ffb5ed2" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/英语/1.html.vue")),
-  // path: /notes/%E8%8B%B1%E8%AF%AD/2.html
-  "v-6c91ad94": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c91ad94" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/英语/2.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

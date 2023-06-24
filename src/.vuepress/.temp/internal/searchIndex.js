@@ -202,8 +202,39 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "个人介绍",
-    "headers": [],
+    "title": "个人笔记",
+    "headers": [
+      {
+        "level": 2,
+        "title": "今天开始玩了个新游戏“重返未来，1999” - By 2023.5.31",
+        "slug": "今天开始玩了个新游戏-重返未来-1999-by-2023-5-31",
+        "link": "#今天开始玩了个新游戏-重返未来-1999-by-2023-5-31",
+        "children": [
+          {
+            "level": 3,
+            "title": "Vertin真可爱",
+            "slug": "vertin真可爱",
+            "link": "#vertin真可爱",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "人生第一次游戏出了双金 - By 2023.5.31",
+        "slug": "人生第一次游戏出了双金-by-2023-5-31",
+        "link": "#人生第一次游戏出了双金-by-2023-5-31",
+        "children": [
+          {
+            "level": 3,
+            "title": "可惜是红弩箭和百夫长，想要星锑和安安",
+            "slug": "可惜是红弩箭和百夫长-想要星锑和安安",
+            "link": "#可惜是红弩箭和百夫长-想要星锑和安安",
+            "children": []
+          }
+        ]
+      }
+    ],
     "path": "/pages/intro.html",
     "pathLocale": "/",
     "extraFields": []
@@ -224,7 +255,36 @@ export const searchIndex = [
   },
   {
     "title": "数学笔记",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "第一章：极限与连续",
+        "slug": "第一章-极限与连续",
+        "link": "#第一章-极限与连续",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "第二章：一元函数微分学",
+        "slug": "第二章-一元函数微分学",
+        "link": "#第二章-一元函数微分学",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "三角函数",
+        "slug": "三角函数",
+        "link": "#三角函数",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "PDF",
+        "slug": "pdf",
+        "link": "#pdf",
+        "children": []
+      }
+    ],
     "path": "/notes/%E6%95%B0%E5%AD%A6/1.html",
     "pathLocale": "/",
     "extraFields": []
