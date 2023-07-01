@@ -7,6 +7,10 @@ export const pagesComponents = {
   "v-147825fb": defineAsyncComponent(() => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.vue")),
   // path: /en/
   "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.vue")),
+  // path: /pages/intro.html
+  "v-11b603de": defineAsyncComponent(() => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.vue")),
+  // path: /pages/slides.html
+  "v-2a1f0993": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.vue")),
   // path: /lyrics/hectopascal.html
   "v-6d58136e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.vue")),
   // path: /lyrics/lycoris.html
@@ -17,10 +21,6 @@ export const pagesComponents = {
   "v-87e1320a": defineAsyncComponent(() => import(/* webpackChunkName: "v-87e1320a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xiju.html.vue")),
   // path: /lyrics/xxlg.html
   "v-2429a5dc": defineAsyncComponent(() => import(/* webpackChunkName: "v-2429a5dc" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xxlg.html.vue")),
-  // path: /pages/intro.html
-  "v-11b603de": defineAsyncComponent(() => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.vue")),
-  // path: /pages/slides.html
-  "v-2a1f0993": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.vue")),
   // path: /notes/%E6%94%BF%E6%B2%BB/1.html
   "v-cc307e6e": defineAsyncComponent(() => import(/* webpackChunkName: "v-cc307e6e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/政治/1.html.vue")),
   // path: /notes/%E6%95%B0%E5%AD%A6/1.html

@@ -5,6 +5,10 @@ export const pagesData = {
   "v-147825fb": () => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.js").then(({ data }) => data),
   // path: /en/
   "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
+  // path: /pages/intro.html
+  "v-11b603de": () => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.js").then(({ data }) => data),
+  // path: /pages/slides.html
+  "v-2a1f0993": () => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.js").then(({ data }) => data),
   // path: /lyrics/hectopascal.html
   "v-6d58136e": () => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.js").then(({ data }) => data),
   // path: /lyrics/lycoris.html
@@ -15,10 +19,6 @@ export const pagesData = {
   "v-87e1320a": () => import(/* webpackChunkName: "v-87e1320a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xiju.html.js").then(({ data }) => data),
   // path: /lyrics/xxlg.html
   "v-2429a5dc": () => import(/* webpackChunkName: "v-2429a5dc" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xxlg.html.js").then(({ data }) => data),
-  // path: /pages/intro.html
-  "v-11b603de": () => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.js").then(({ data }) => data),
-  // path: /pages/slides.html
-  "v-2a1f0993": () => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.js").then(({ data }) => data),
   // path: /notes/%E6%94%BF%E6%B2%BB/1.html
   "v-cc307e6e": () => import(/* webpackChunkName: "v-cc307e6e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/政治/1.html.js").then(({ data }) => data),
   // path: /notes/%E6%95%B0%E5%AD%A6/1.html

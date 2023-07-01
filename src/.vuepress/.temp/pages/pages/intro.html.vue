@@ -7,6 +7,7 @@
 <h2 id="人生第一次游戏出了双金-by-2023-5-31" tabindex="-1"><a class="header-anchor" href="#人生第一次游戏出了双金-by-2023-5-31" aria-hidden="true">#</a> 人生第一次游戏出了双金 - By 2023.5.31</h2>
 <h3 id="可惜是红弩箭和百夫长-想要星锑和安安" tabindex="-1"><a class="header-anchor" href="#可惜是红弩箭和百夫长-想要星锑和安安" aria-hidden="true">#</a> 可惜是红弩箭和百夫长，想要星锑和安安</h3>
 <p><img src="/assets/1999/dl.png" alt="image" loading="lazy"></p>
+<h3 id="星锑get-😊-by-2023-6-30" tabindex="-1"><a class="header-anchor" href="#星锑get-😊-by-2023-6-30" aria-hidden="true">#</a> 星锑Get 😊 - By 2023.6.30</h3>
 </div></template>
 
 

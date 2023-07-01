@@ -11,7 +11,8 @@
 <img src="/assets/math/6.jpg" alt="image" loading="lazy">
 <img src="/assets/math/7.jpg" alt="image" loading="lazy"></p>
 <h2 id="三角函数" tabindex="-1"><a class="header-anchor" href="#三角函数" aria-hidden="true">#</a> 三角函数</h2>
-<p><img src="/assets/math/sanjiao.jpg" alt="image" loading="lazy"></p>
+<p><img src="/assets/math/sanjiao.jpg" alt="image" loading="lazy">
+<img src="/assets/math/sanjiao2.jpg" alt="image" loading="lazy"></p>
 <h2 id="pdf" tabindex="-1"><a class="header-anchor" href="#pdf" aria-hidden="true">#</a> PDF</h2>
 <PDF url="/assets/高等数学学习手册.pdf" height="900px" zoom="90" /></div></template>
 
