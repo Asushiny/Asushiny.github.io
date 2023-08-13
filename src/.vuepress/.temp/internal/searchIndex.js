@@ -29,58 +29,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "个人笔记",
-    "headers": [
-      {
-        "level": 2,
-        "title": "今天开始玩了个新游戏“重返未来，1999” - By 2023.5.31",
-        "slug": "今天开始玩了个新游戏-重返未来-1999-by-2023-5-31",
-        "link": "#今天开始玩了个新游戏-重返未来-1999-by-2023-5-31",
-        "children": [
-          {
-            "level": 3,
-            "title": "Vertin真可爱",
-            "slug": "vertin真可爱",
-            "link": "#vertin真可爱",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "人生第一次游戏出了双金 - By 2023.5.31",
-        "slug": "人生第一次游戏出了双金-by-2023-5-31",
-        "link": "#人生第一次游戏出了双金-by-2023-5-31",
-        "children": [
-          {
-            "level": 3,
-            "title": "可惜是红弩箭和百夫长，想要星锑和安安",
-            "slug": "可惜是红弩箭和百夫长-想要星锑和安安",
-            "link": "#可惜是红弩箭和百夫长-想要星锑和安安",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "星锑Get 😊 - By 2023.6.30",
-            "slug": "星锑get-😊-by-2023-6-30",
-            "link": "#星锑get-😊-by-2023-6-30",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/pages/intro.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "幻灯片页",
-    "headers": [],
-    "path": "/pages/slides.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Hectopascal",
     "headers": [
       {
@@ -254,6 +202,49 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "好看的图片",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Vertin真可爱，维尔汀和她的小伙伴",
+        "slug": "vertin真可爱-维尔汀和她的小伙伴",
+        "link": "#vertin真可爱-维尔汀和她的小伙伴",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "洁西卡和金蜜儿",
+        "slug": "洁西卡和金蜜儿",
+        "link": "#洁西卡和金蜜儿",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "人生第一次游戏出了双金 - By 2023.5.31",
+        "slug": "人生第一次游戏出了双金-by-2023-5-31",
+        "link": "#人生第一次游戏出了双金-by-2023-5-31",
+        "children": []
+      }
+    ],
+    "path": "/pages/intro.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "幻灯片页",
+    "headers": [],
+    "path": "/pages/slides.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "终将成为你",
+    "headers": [],
+    "path": "/pages/zjcwn.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "政治笔记",
     "headers": [],
     "path": "/notes/%E6%94%BF%E6%B2%BB/1.html",
@@ -409,9 +400,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "笔记 分类",
+    "title": "漫画 分类",
     "headers": [],
-    "path": "/category/%E7%AC%94%E8%AE%B0/",
+    "path": "/category/%E6%BC%AB%E7%94%BB/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -423,9 +414,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Category",
+    "title": "笔记 分类",
     "headers": [],
-    "path": "/en/category/",
+    "path": "/category/%E7%AC%94%E8%AE%B0/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -433,6 +424,13 @@ export const searchIndex = [
     "title": "终将成为你 标签",
     "headers": [],
     "path": "/tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Category",
+    "headers": [],
+    "path": "/en/category/",
     "pathLocale": "/",
     "extraFields": []
   },

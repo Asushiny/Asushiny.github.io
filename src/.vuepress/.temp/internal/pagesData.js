@@ -5,10 +5,6 @@ export const pagesData = {
   "v-147825fb": () => import(/* webpackChunkName: "v-147825fb" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/docs/index.html.js").then(({ data }) => data),
   // path: /en/
   "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
-  // path: /pages/intro.html
-  "v-11b603de": () => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.js").then(({ data }) => data),
-  // path: /pages/slides.html
-  "v-2a1f0993": () => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.js").then(({ data }) => data),
   // path: /lyrics/hectopascal.html
   "v-6d58136e": () => import(/* webpackChunkName: "v-6d58136e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/hectopascal.html.js").then(({ data }) => data),
   // path: /lyrics/lycoris.html
@@ -19,6 +15,12 @@ export const pagesData = {
   "v-87e1320a": () => import(/* webpackChunkName: "v-87e1320a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xiju.html.js").then(({ data }) => data),
   // path: /lyrics/xxlg.html
   "v-2429a5dc": () => import(/* webpackChunkName: "v-2429a5dc" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/lyrics/xxlg.html.js").then(({ data }) => data),
+  // path: /pages/intro.html
+  "v-11b603de": () => import(/* webpackChunkName: "v-11b603de" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/intro.html.js").then(({ data }) => data),
+  // path: /pages/slides.html
+  "v-2a1f0993": () => import(/* webpackChunkName: "v-2a1f0993" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/slides.html.js").then(({ data }) => data),
+  // path: /pages/zjcwn.html
+  "v-006bcc1a": () => import(/* webpackChunkName: "v-006bcc1a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/pages/zjcwn.html.js").then(({ data }) => data),
   // path: /notes/%E6%94%BF%E6%B2%BB/1.html
   "v-cc307e6e": () => import(/* webpackChunkName: "v-cc307e6e" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/notes/政治/1.html.js").then(({ data }) => data),
   // path: /notes/%E6%95%B0%E5%AD%A6/1.html
@@ -55,14 +57,16 @@ export const pagesData = {
   "v-37a8c5a0": () => import(/* webpackChunkName: "v-37a8c5a0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/star/index.html.js").then(({ data }) => data),
   // path: /en/timeline/
   "v-0379cba1": () => import(/* webpackChunkName: "v-0379cba1" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/timeline/index.html.js").then(({ data }) => data),
-  // path: /category/%E7%AC%94%E8%AE%B0/
-  "v-49425445": () => import(/* webpackChunkName: "v-49425445" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/category/笔记/index.html.js").then(({ data }) => data),
+  // path: /category/%E6%BC%AB%E7%94%BB/
+  "v-3e0b52d1": () => import(/* webpackChunkName: "v-3e0b52d1" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/category/漫画/index.html.js").then(({ data }) => data),
   // path: /tag/hectopascal/
   "v-7bfa3bf0": () => import(/* webpackChunkName: "v-7bfa3bf0" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/hectopascal/index.html.js").then(({ data }) => data),
-  // path: /en/category/
-  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
+  // path: /category/%E7%AC%94%E8%AE%B0/
+  "v-49425445": () => import(/* webpackChunkName: "v-49425445" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/category/笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%BB%88%E5%B0%86%E6%88%90%E4%B8%BA%E4%BD%A0/
   "v-2959f73a": () => import(/* webpackChunkName: "v-2959f73a" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/终将成为你/index.html.js").then(({ data }) => data),
+  // path: /en/category/
+  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
   // path: /tag/%E8%8A%B1%E3%81%AE%E5%A1%94/
   "v-525acb46": () => import(/* webpackChunkName: "v-525acb46" */"D:/练习/Blog/Asushiny.github.io/src/.vuepress/.temp/pages/tag/花の塔/index.html.js").then(({ data }) => data),
   // path: /tag/lycoris-recoil/
