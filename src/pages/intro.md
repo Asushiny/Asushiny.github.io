@@ -16,3 +16,7 @@ icon: info
 
 ### 人生第一次游戏出了双金 - By 2023.5.31
 ![image](/assets/1999/db.png)
+
+### 芜湖!三金 - By 2023.9.7
+![image](/assets/1999/th.png)
+![image](/assets/1999/th2.png)
